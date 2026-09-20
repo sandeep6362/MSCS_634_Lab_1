@@ -1,0 +1,1164 @@
+call_id,call_date,hour_of_day,platform,intent,call_duration_sec,num_turns,num_reprompts,asr_confidence,api_latency_ms,transferred_to_agent,csat_score
+C10000,2026-01-01,6,Legacy IVR,Cancel a Payment,338.0,8,1,0.739,176.0,0,5.0
+C10002,2026-01-01,7,Legacy IVR,Recent Transactions,256.0,8,2,0.838,267.0,0,3.0
+C10003,2026-01-01,7,New Platform,Make a Payment,256.0,4,0,0.823,290.0,0,5.0
+C10004,2026-01-01,8,Legacy IVR,Recent Transactions,211.0,5,1,0.932,370.0,0,4.0
+C10005,2026-01-01,12,Legacy IVR,Recent Transactions,257.0,7,1,0.597,390.0,0,4.0
+C10006,2026-01-01,14,Legacy IVR,Recent Transactions,250.0,7,2,0.819,294.0,0,3.0
+C10007,2026-01-01,15,Legacy IVR,Balance Inquiry,209.0,5,1,0.867,329.0,0,4.0
+C10008,2026-01-01,18,Legacy IVR,Cancel a Payment,385.0,8,1,0.787,219.0,1,4.0
+C10009,2026-01-01,20,Legacy IVR,Balance Inquiry,402.0,7,3,0.758,128.0,1,3.0
+C10010,2026-01-01,20,Legacy IVR,Make a Payment,300.0,5,0,0.782,224.0,0,3.0
+C10011,2026-01-01,21,Legacy IVR,Balance Inquiry,258.0,8,3,0.963,225.0,0,3.0
+C10012,2026-01-01,21,Legacy IVR,Make a Payment,246.0,7,2,0.838,311.0,0,4.0
+C10013,2026-01-01,22,Legacy IVR,Recent Transactions,252.0,6,1,0.798,193.0,0,4.0
+C10014,2026-01-01,22,Legacy IVR,Rewards Redemption,294.0,6,0,0.822,193.0,0,4.0
+C10015,2026-01-02,6,Legacy IVR,Balance Inquiry,183.0,6,1,0.897,236.0,0,4.0
+C10016,2026-01-02,6,New Platform,Rewards Redemption,323.0,11,2,0.833,217.0,0,4.0
+C10017,2026-01-02,7,Legacy IVR,Rewards Redemption,458.0,9,3,0.963,237.0,0,4.0
+C10018,2026-01-02,9,New Platform,Make a Payment,168.0,5,0,0.889,91.0,0,5.0
+C10019,2026-01-02,9,Legacy IVR,Unknown,181.0,6,0,0.893,416.0,0,4.0
+C10020,2026-01-02,9,Legacy IVR,Make a Payment,264.0,6,1,0.776,281.0,0,4.0
+C10021,2026-01-02,10,Legacy IVR,Rewards Redemption,415.0,10,3,0.799,112.0,1,2.0
+C10022,2026-01-02,13,Legacy IVR,Recent Transactions,173.0,4,0,0.718,190.0,0,4.0
+C10023,2026-01-02,14,Legacy IVR,Make a Payment,450.0,9,1,0.832,190.0,1,3.0
+C10024,2026-01-02,19,Legacy IVR,Make a Payment,267.0,7,2,0.866,190.0,0,3.0
+C10025,2026-01-02,20,Legacy IVR,Rewards Redemption,266.0,8,2,0.835,239.0,0,4.0
+C10026,2026-01-02,20,Legacy IVR,Recent Transactions,164.0,5,1,0.644,189.0,0,5.0
+C10027,2026-01-03,6,Legacy IVR,Balance Inquiry,380.0,9,6,0.78,275.0,1,1.0
+C10029,2026-01-03,12,Legacy IVR,Make a Payment,254.0,7,0,0.817,301.0,0,4.0
+C10030,2026-01-03,20,Legacy IVR,Balance Inquiry,193.0,5,2,0.914,194.0,0,4.0
+C10031,2026-01-03,21,Legacy IVR,Make a Payment,306.0,7,3,0.833,229.0,0,3.0
+C10032,2026-01-03,21,Legacy IVR,Balance Inquiry,266.0,6,1,0.548,170.0,1,4.0
+C10033,2026-01-03,22,Legacy IVR,Cancel a Payment,347.0,8,1,0.769,193.0,0,4.0
+C10034,2026-01-04,6,New Platform,Cancel a Payment,232.0,5,0,0.871,161.0,0,5.0
+C10035,2026-01-04,9,Legacy IVR,Balance Inquiry,179.0,6,1,0.814,223.0,0,3.0
+C10036,2026-01-04,10,Legacy IVR,Make a Payment,438.0,9,2,0.806,263.0,0,4.0
+C10037,2026-01-04,10,New Platform,Rewards Redemption,206.0,7,0,0.882,150.0,0,5.0
+C10038,2026-01-04,13,Legacy IVR,Cancel a Payment,435.0,9,2,0.783,216.0,0,2.0
+C10039,2026-01-04,15,New Platform,Recent Transactions,182.0,10,0,0.816,134.0,0,4.0
+C10040,2026-01-04,15,Legacy IVR,Balance Inquiry,136.0,5,0,0.935,252.0,0,4.0
+C10041,2026-01-04,19,Legacy IVR,Rewards Redemption,319.0,9,0,0.772,253.0,0,4.0
+C10042,2026-01-04,21,New Platform,Cancel a Payment,300.0,6,2,0.942,159.0,0,2.0
+C10043,2026-01-04,21,Legacy IVR,Balance Inquiry,183.0,7,1,0.859,192.0,0,3.0
+C10044,2026-01-05,6,Legacy IVR,Make a Payment,469.0,12,3,0.744,240.0,1,1.0
+C10045,2026-01-05,9,New Platform,Recent Transactions,206.0,5,0,0.966,201.0,0,4.0
+C10046,2026-01-05,9,Legacy IVR,Make a Payment,337.0,8,1,0.739,156.0,0,3.0
+C10047,2026-01-05,11,Legacy IVR,Balance Inquiry,190.0,6,3,0.782,228.0,0,3.0
+C10048,2026-01-05,12,Legacy IVR,Make a Payment,429.0,6,0,0.643,228.0,1,4.0
+C10049,2026-01-05,12,Legacy IVR,Balance Inquiry,153.0,6,0,0.855,223.0,0,4.0
+C10050,2026-01-05,15,Legacy IVR,Cancel a Payment,338.0,7,2,0.864,333.0,0,3.0
+C10051,2026-01-05,15,Legacy IVR,Balance Inquiry,150.0,4,0,0.964,251.0,0,2.0
+C10053,2026-01-05,16,New Platform,Balance Inquiry,176.0,6,1,0.878,224.0,0,5.0
+C10055,2026-01-05,16,Legacy IVR,Balance Inquiry,129.0,4,1,0.711,216.0,0,4.0
+C10056,2026-01-05,17,Legacy IVR,Rewards Redemption,422.0,10,1,0.922,196.0,0,4.0
+C10057,2026-01-05,19,Legacy IVR,Recent Transactions,495.0,7,4,0.838,253.0,1,4.0
+C10058,2026-01-05,22,Legacy IVR,Rewards Redemption,263.0,6,0,0.803,337.0,0,4.0
+C10059,2026-01-06,6,Legacy IVR,Cancel a Payment,325.0,10,2,0.76,284.0,0,4.0
+C10060,2026-01-06,8,Legacy IVR,Rewards Redemption,222.0,8,0,0.948,260.0,0,5.0
+C10061,2026-01-06,8,Legacy IVR,Make a Payment,271.0,8,3,0.779,224.0,0,5.0
+C10062,2026-01-06,9,Legacy IVR,Make a Payment,321.0,6,1,0.642,133.0,0,4.0
+C10063,2026-01-06,10,Legacy IVR,Rewards Redemption,364.0,10,2,0.761,121.0,0,3.0
+C10064,2026-01-06,10,New Platform,Balance Inquiry,108.0,6,0,0.697,121.0,0,4.0
+C10065,2026-01-06,12,Legacy IVR,Recent Transactions,321.0,7,0,0.838,223.0,1,5.0
+C10066,2026-01-06,13,Legacy IVR,Recent Transactions,164.0,6,1,0.887,165.0,0,4.0
+C10067,2026-01-06,15,Legacy IVR,Rewards Redemption,436.0,9,1,0.777,134.0,1,2.0
+C10068,2026-01-06,17,Legacy IVR,Make a Payment,241.0,4,0,0.481,212.0,0,5.0
+C10069,2026-01-06,18,Legacy IVR,Make a Payment,370.0,12,4,0.728,141.0,0,3.0
+C10070,2026-01-06,20,Legacy IVR,Cancel a Payment,426.0,7,1,0.584,197.0,1,4.0
+C10071,2026-01-06,20,Legacy IVR,Balance Inquiry,317.0,6,3,0.821,240.0,1,2.0
+C10072,2026-01-06,21,Legacy IVR,Rewards Redemption,282.0,7,1,0.862,143.0,0,4.0
+C10073,2026-01-06,22,Legacy IVR,Cancel a Payment,396.0,8,2,0.854,304.0,0,5.0
+C10074,2026-01-07,6,Legacy IVR,Cancel a Payment,319.0,9,2,0.678,158.0,0,3.0
+C10075,2026-01-07,6,Legacy IVR,Balance Inquiry,208.0,5,0,0.826,222.0,0,3.0
+C10076,2026-01-07,6,Legacy IVR,Make a Payment,272.0,6,1,0.7,194.0,0,5.0
+C10077,2026-01-07,8,Legacy IVR,Recent Transactions,208.0,8,0,0.86,294.0,0,4.0
+C10078,2026-01-07,8,Legacy IVR,Make a Payment,307.0,8,1,0.728,224.0,0,4.0
+C10079,2026-01-07,10,Legacy IVR,Make a Payment,260.0,4,0,0.811,211.0,0,4.0
+C10080,2026-01-07,10,New Platform,Balance Inquiry,135.0,4,0,0.792,159.0,0,3.0
+C10081,2026-01-07,11,Legacy IVR,Recent Transactions,306.0,6,2,0.798,222.0,0,4.0
+C10082,2026-01-07,11,Legacy IVR,Cancel a Payment,285.0,7,2,0.763,181.0,0,3.0
+C10083,2026-01-07,12,New Platform,Cancel a Payment,406.0,10,2,0.9,179.0,1,3.0
+C10084,2026-01-07,12,New Platform,Make a Payment,282.0,9,0,0.934,271.0,1,3.0
+C10085,2026-01-07,13,Legacy IVR,Rewards Redemption,303.0,12,0,0.888,150.0,0,5.0
+C10086,2026-01-07,16,Legacy IVR,Make a Payment,322.0,7,3,0.836,309.0,0,4.0
+C10087,2026-01-07,16,Legacy IVR,Make a Payment,229.0,7,2,0.966,283.0,0,4.0
+C10088,2026-01-07,19,Legacy IVR,Cancel a Payment,218.0,7,0,0.678,210.0,0,5.0
+C10089,2026-01-07,19,New Platform,Cancel a Payment,240.0,8,0,0.777,245.0,0,4.0
+C10090,2026-01-07,19,Legacy IVR,Make a Payment,267.0,8,2,0.772,245.0,0,3.0
+C10091,2026-01-07,20,Legacy IVR,Rewards Redemption,398.0,7,1,0.82,235.0,0,4.0
+C10092,2026-01-07,21,Legacy IVR,Rewards Redemption,438.0,10,2,0.819,674.0,0,4.0
+C10093,2026-01-07,22,Legacy IVR,Rewards Redemption,428.0,9,3,0.774,164.0,0,3.0
+C10094,2026-01-07,22,Legacy IVR,Recent Transactions,191.0,4,1,0.849,214.0,0,5.0
+C10095,2026-01-07,22,Legacy IVR,Make a Payment,335.0,8,1,0.79,308.0,0,3.0
+C10097,2026-01-08,9,Legacy IVR,Recent Transactions,218.0,5,1,0.683,161.0,0,4.0
+C10098,2026-01-08,10,Legacy IVR,Make a Payment,212.0,4,0,0.933,135.0,0,4.0
+C10099,2026-01-08,12,Legacy IVR,Make a Payment,245.0,6,0,0.884,370.0,0,4.0
+C10100,2026-01-08,12,New Platform,Recent Transactions,216.0,5,0,0.838,465.0,0,4.0
+C10101,2026-01-08,13,Legacy IVR,Rewards Redemption,278.0,5,2,0.833,167.0,0,4.0
+C10102,2026-01-08,14,New Platform,Make a Payment,338.0,6,1,0.907,192.0,0,5.0
+C10103,2026-01-08,15,Legacy IVR,Balance Inquiry,182.0,7,1,0.747,308.0,0,4.0
+C10104,2026-01-08,18,Legacy IVR,Make a Payment,259.0,10,1,0.822,185.0,0,4.0
+C10106,2026-01-08,18,Legacy IVR,Rewards Redemption,272.0,7,0,0.95,196.0,0,4.0
+C10107,2026-01-08,21,Legacy IVR,Balance Inquiry,264.0,6,1,0.881,214.0,1,4.0
+C10108,2026-01-09,7,Legacy IVR,Make a Payment,267.0,9,1,0.858,238.0,0,4.0
+C10109,2026-01-09,7,Legacy IVR,Make a Payment,483.0,10,2,0.83,180.0,1,3.0
+C10110,2026-01-09,8,New Platform,Balance Inquiry,93.0,3,0,0.946,242.0,0,4.0
+C10111,2026-01-09,8,Legacy IVR,Recent Transactions,425.0,11,5,0.859,226.0,1,1.0
+C10113,2026-01-09,9,Legacy IVR,Recent Transactions,223.0,5,0,0.744,214.0,0,4.0
+C10114,2026-01-09,11,Legacy IVR,Recent Transactions,199.0,8,1,0.804,164.0,0,5.0
+C10115,2026-01-09,12,Legacy IVR,Make a Payment,309.0,9,0,0.77,254.0,0,5.0
+C10116,2026-01-09,17,Legacy IVR,Make a Payment,205.0,4,1,0.778,302.0,0,3.0
+C10117,2026-01-09,18,Legacy IVR,Make a Payment,398.0,10,1,0.909,256.0,0,4.0
+C10118,2026-01-09,22,Legacy IVR,Recent Transactions,232.0,7,1,0.838,339.0,0,3.0
+C10119,2026-01-10,6,New Platform,Make a Payment,207.0,5,0,0.851,287.0,0,5.0
+C10120,2026-01-10,8,Legacy IVR,Balance Inquiry,130.0,3,0,0.746,207.0,0,5.0
+C10121,2026-01-10,9,Legacy IVR,Recent Transactions,280.0,7,4,0.68,207.0,0,3.0
+C10122,2026-01-10,9,Legacy IVR,Make a Payment,355.0,6,2,0.876,268.0,0,4.0
+C10123,2026-01-10,9,New Platform,Recent Transactions,142.0,5,1,0.934,126.0,0,4.0
+C10124,2026-01-10,13,Legacy IVR,Make a Payment,274.0,7,1,0.672,144.0,0,4.0
+C10125,2026-01-10,15,Legacy IVR,Cancel a Payment,341.0,11,2,0.838,177.0,0,4.0
+C10126,2026-01-10,18,Legacy IVR,Balance Inquiry,250.0,3,0,0.621,249.0,1,3.0
+C10127,2026-01-10,18,Legacy IVR,Make a Payment,258.0,7,0,0.915,311.0,0,5.0
+C10128,2026-01-10,18,Legacy IVR,Balance Inquiry,235.0,11,2,0.81,272.0,0,4.0
+C10129,2026-01-10,18,Legacy IVR,Recent Transactions,218.0,6,1,0.758,192.0,0,5.0
+C10130,2026-01-10,19,Legacy IVR,Rewards Redemption,451.0,6,0,0.868,779.0,0,4.0
+C10131,2026-01-10,19,Legacy IVR,Recent Transactions,176.0,6,1,0.799,279.0,0,4.0
+C10132,2026-01-10,20,Legacy IVR,Make a Payment,195.0,5,0,0.719,321.0,0,4.0
+C10133,2026-01-10,20,New Platform,Make a Payment,263.0,7,1,0.872,145.0,0,5.0
+C10134,2026-01-10,20,Legacy IVR,Make a Payment,313.0,8,1,0.81,184.0,0,4.0
+C10136,2026-01-10,21,Legacy IVR,Balance Inquiry,354.0,7,2,0.838,325.0,1,4.0
+C10137,2026-01-10,21,Legacy IVR,Balance Inquiry,127.0,6,0,0.634,325.0,0,3.0
+C10138,2026-01-10,21,New Platform,Recent Transactions,165.0,5,0,0.963,213.0,0,5.0
+C10139,2026-01-11,8,Legacy IVR,Balance Inquiry,172.0,9,1,0.894,234.0,0,4.0
+C10140,2026-01-11,8,Legacy IVR,Balance Inquiry,194.0,5,2,0.891,264.0,0,4.0
+C10141,2026-01-11,8,Legacy IVR,Recent Transactions,298.0,8,3,0.785,233.0,0,4.0
+C10142,2026-01-11,9,Legacy IVR,Recent Transactions,218.0,4,0,0.743,221.0,0,4.0
+C10143,2026-01-11,9,Legacy IVR,Cancel a Payment,332.0,7,1,0.927,221.0,0,3.0
+C10144,2026-01-11,13,Legacy IVR,Cancel a Payment,276.0,9,0,0.915,229.0,0,4.0
+C10145,2026-01-11,14,New Platform,Make a Payment,195.0,6,0,0.784,164.0,0,5.0
+C10146,2026-01-11,17,Legacy IVR,Rewards Redemption,437.0,11,2,0.74,244.0,0,4.0
+C10148,2026-01-11,22,Legacy IVR,Make a Payment,431.0,8,2,0.845,331.0,0,3.0
+C10149,2026-01-11,22,New Platform,Make a Payment,255.0,5,0,0.906,102.0,0,4.0
+C10150,2026-01-11,22,New Platform,Rewards Redemption,287.0,6,0,0.963,252.0,0,4.0
+C10151,2026-01-12,6,Legacy IVR,Cancel a Payment,291.0,8,2,0.663,350.0,0,4.0
+C10152,2026-01-12,8,New Platform,Recent Transactions,267.0,4,0,0.632,190.0,1,5.0
+C10154,2026-01-12,10,Legacy IVR,Balance Inquiry,196.0,8,3,0.708,251.0,0,3.0
+C10155,2026-01-12,10,Legacy IVR,Rewards Redemption,313.0,9,1,0.929,307.0,0,4.0
+C10156,2026-01-12,10,Legacy IVR,Rewards Redemption,340.0,11,0,0.947,201.0,0,4.0
+C10157,2026-01-12,11,Legacy IVR,Unknown,443.0,10,2,0.756,201.0,1,2.0
+C10158,2026-01-12,12,Legacy IVR,Make a Payment,264.0,5,0,0.863,232.0,0,4.0
+C10159,2026-01-12,14,Legacy IVR,Rewards Redemption,286.0,5,0,0.839,313.0,0,4.0
+C10160,2026-01-12,16,Legacy IVR,Cancel a Payment,413.0,5,2,0.537,191.0,1,3.0
+C10161,2026-01-12,16,Legacy IVR,Make a Payment,368.0,8,2,0.759,225.0,0,3.0
+C10162,2026-01-12,19,Legacy IVR,Balance Inquiry,260.0,5,1,0.735,177.0,1,4.0
+C10163,2026-01-12,21,Legacy IVR,Recent Transactions,280.0,7,2,0.743,245.0,0,4.0
+C10164,2026-01-12,22,New Platform,Balance Inquiry,105.0,6,0,0.85,238.0,0,4.0
+C10165,2026-01-12,22,Legacy IVR,Recent Transactions,158.0,7,1,0.85,189.0,0,4.0
+C10166,2026-01-12,22,Legacy IVR,Make a Payment,288.0,10,0,0.946,298.0,0,4.0
+C10167,2026-01-13,6,New Platform,Make a Payment,253.0,6,0,0.922,186.0,0,4.0
+C10168,2026-01-13,7,Legacy IVR,Recent Transactions,341.0,10,2,0.889,186.0,0,4.0
+C10169,2026-01-13,7,Legacy IVR,Make a Payment,276.0,5,2,0.674,178.0,0,4.0
+C10170,2026-01-13,7,New Platform,Cancel a Payment,201.0,8,0,0.814,178.0,0,4.0
+C10171,2026-01-13,8,New Platform,Recent Transactions,298.0,5,0,0.822,143.0,1,2.0
+C10172,2026-01-13,8,Legacy IVR,Make a Payment,237.0,7,0,0.806,269.0,0,4.0
+C10173,2026-01-13,8,Legacy IVR,Make a Payment,310.0,7,1,0.802,222.0,0,4.0
+C10174,2026-01-13,13,New Platform,Make a Payment,228.0,3,0,0.849,205.0,0,4.0
+C10175,2026-01-13,14,Legacy IVR,Make a Payment,364.0,8,1,0.838,302.0,1,3.0
+C10176,2026-01-13,15,Legacy IVR,Make a Payment,374.0,10,1,0.898,239.0,0,5.0
+C10177,2026-01-13,15,Legacy IVR,Cancel a Payment,318.0,9,1,0.838,233.0,0,4.0
+C10178,2026-01-13,16,Legacy IVR,Cancel a Payment,366.0,10,1,0.804,309.0,0,4.0
+C10179,2026-01-13,16,Legacy IVR,Make a Payment,290.0,8,1,0.671,215.0,0,3.0
+C10180,2026-01-13,16,New Platform,Balance Inquiry,107.0,4,0,0.917,233.0,0,5.0
+C10181,2026-01-13,16,New Platform,Recent Transactions,300.0,6,1,0.861,208.0,1,3.0
+C10182,2026-01-13,18,New Platform,Recent Transactions,165.0,6,0,0.955,147.0,0,5.0
+C10183,2026-01-13,20,Legacy IVR,Recent Transactions,267.0,8,3,0.851,213.0,0,4.0
+C10184,2026-01-13,22,Legacy IVR,Rewards Redemption,323.0,7,0,0.706,336.0,0,4.0
+C10185,2026-01-14,6,Legacy IVR,Cancel a Payment,265.0,4,0,0.844,244.0,0,4.0
+C10186,2026-01-14,6,Legacy IVR,Make a Payment,459.0,9,1,0.777,94.0,1,3.0
+C10187,2026-01-14,10,New Platform,Make a Payment,218.0,7,0,0.987,122.0,0,5.0
+C10188,2026-01-14,11,Legacy IVR,Balance Inquiry,161.0,5,1,0.868,223.0,0,4.0
+C10189,2026-01-14,13,Legacy IVR,Recent Transactions,323.0,9,4,0.904,236.0,0,3.0
+C10190,2026-01-14,19,Legacy IVR,Cancel a Payment,452.0,7,2,0.833,217.0,1,4.0
+C10191,2026-01-14,19,Legacy IVR,Cancel a Payment,330.0,5,1,0.843,267.0,0,3.0
+C10192,2026-01-14,20,New Platform,Rewards Redemption,221.0,5,1,0.962,220.0,0,4.0
+C10193,2026-01-14,20,Legacy IVR,Make a Payment,371.0,12,3,0.902,275.0,0,3.0
+C10194,2026-01-15,6,New Platform,Balance Inquiry,160.0,5,0,0.879,170.0,0,3.0
+C10195,2026-01-15,7,New Platform,Cancel a Payment,312.0,9,0,0.976,134.0,0,5.0
+C10196,2026-01-15,8,New Platform,Make a Payment,216.0,5,0,0.834,260.0,0,4.0
+C10197,2026-01-15,14,Legacy IVR,Recent Transactions,191.0,5,0,0.656,260.0,0,4.0
+C10198,2026-01-15,14,Legacy IVR,Recent Transactions,207.0,5,1,0.807,157.0,0,4.0
+C10199,2026-01-15,14,Legacy IVR,Unknown,240.0,8,2,0.809,379.0,0,3.0
+C10200,2026-01-15,15,Legacy IVR,Cancel a Payment,366.0,12,1,0.759,164.0,0,5.0
+C10201,2026-01-15,18,Legacy IVR,Balance Inquiry,117.0,5,0,0.716,169.0,0,5.0
+C10202,2026-01-15,19,Legacy IVR,Balance Inquiry,118.0,3,0,0.654,237.0,0,4.0
+C10203,2026-01-15,21,Legacy IVR,Cancel a Payment,308.0,11,1,0.746,177.0,0,4.0
+C10204,2026-01-16,6,Legacy IVR,Make a Payment,266.0,7,2,0.838,278.0,0,4.0
+C10205,2026-01-16,8,New Platform,Recent Transactions,191.0,7,1,0.912,148.0,0,3.0
+C10206,2026-01-16,8,New Platform,Cancel a Payment,269.0,5,0,0.971,235.0,0,5.0
+C10207,2026-01-16,9,New Platform,Cancel a Payment,212.0,9,0,0.962,156.0,0,3.0
+C10208,2026-01-16,11,New Platform,Recent Transactions,150.0,4,0,0.897,160.0,0,5.0
+C10209,2026-01-16,14,Legacy IVR,Make a Payment,206.0,8,0,0.793,405.0,0,4.0
+C10210,2026-01-16,15,New Platform,Cancel a Payment,438.0,5,1,0.838,278.0,1,3.0
+C10211,2026-01-16,16,Legacy IVR,Recent Transactions,151.0,5,1,0.798,265.0,0,5.0
+C10212,2026-01-16,17,Legacy IVR,Rewards Redemption,270.0,4,0,0.71,263.0,0,4.0
+C10213,2026-01-16,18,Legacy IVR,Balance Inquiry,118.0,4,0,0.728,267.0,0,5.0
+C10214,2026-01-16,18,Legacy IVR,Recent Transactions,260.0,6,0,0.838,224.0,0,4.0
+C10215,2026-01-16,18,Legacy IVR,Make a Payment,275.0,5,0,0.74,280.0,0,4.0
+C10216,2026-01-16,19,Legacy IVR,Recent Transactions,210.0,5,0,0.749,280.0,0,4.0
+C10217,2026-01-16,21,Legacy IVR,Make a Payment,335.0,7,1,0.905,236.0,0,5.0
+C10218,2026-01-16,21,Legacy IVR,Cancel a Payment,270.0,8,1,0.773,248.0,0,3.0
+C10219,2026-01-16,22,Legacy IVR,Balance Inquiry,139.0,5,1,0.75,287.0,0,4.0
+C10220,2026-01-17,6,New Platform,Balance Inquiry,150.0,8,0,0.876,139.0,0,4.0
+C10221,2026-01-17,6,Legacy IVR,Cancel a Payment,287.0,9,1,0.838,246.0,0,4.0
+C10222,2026-01-17,7,Legacy IVR,Balance Inquiry,215.0,5,1,0.88,232.0,0,4.0
+C10223,2026-01-17,8,Legacy IVR,Recent Transactions,160.0,3,0,0.777,214.0,0,4.0
+C10224,2026-01-17,8,New Platform,Rewards Redemption,212.0,4,0,0.869,182.0,0,4.0
+C10225,2026-01-17,8,Legacy IVR,Balance Inquiry,146.0,5,2,0.611,186.0,0,5.0
+C10226,2026-01-17,9,New Platform,Balance Inquiry,156.0,6,1,0.838,195.0,0,5.0
+C10227,2026-01-17,9,Legacy IVR,Balance Inquiry,220.0,5,1,0.669,195.0,0,4.0
+C10228,2026-01-17,10,New Platform,Recent Transactions,163.0,3,0,0.78,184.0,0,4.0
+C10229,2026-01-17,11,Legacy IVR,Balance Inquiry,354.0,8,4,0.897,418.0,1,2.0
+C10230,2026-01-17,11,Legacy IVR,Cancel a Payment,359.0,5,1,0.79,286.0,0,4.0
+C10231,2026-01-17,12,Legacy IVR,Balance Inquiry,158.0,7,1,0.882,195.0,0,4.0
+C10233,2026-01-17,13,Legacy IVR,Make a Payment,248.0,6,1,0.944,251.0,0,3.0
+C10234,2026-01-17,14,Legacy IVR,Balance Inquiry,138.0,7,0,0.844,378.0,0,4.0
+C10235,2026-01-17,14,Legacy IVR,Make a Payment,327.0,6,1,0.811,397.0,0,4.0
+C10236,2026-01-17,17,Legacy IVR,Balance Inquiry,136.0,4,0,0.676,193.0,0,5.0
+C10237,2026-01-17,18,New Platform,Rewards Redemption,194.0,4,0,0.956,176.0,0,5.0
+C10238,2026-01-17,18,New Platform,Make a Payment,379.0,8,2,0.895,178.0,1,3.0
+C10240,2026-01-17,19,Legacy IVR,Balance Inquiry,109.0,3,0,0.838,352.0,0,4.0
+C10241,2026-01-17,20,Legacy IVR,Make a Payment,207.0,7,0,0.736,261.0,0,4.0
+C10242,2026-01-17,20,Legacy IVR,Make a Payment,270.0,9,1,0.881,214.0,0,4.0
+C10243,2026-01-17,21,Legacy IVR,Recent Transactions,210.0,6,1,0.855,204.0,0,3.0
+C10244,2026-01-17,21,New Platform,Recent Transactions,185.0,7,1,0.838,234.0,0,5.0
+C10245,2026-01-17,21,Legacy IVR,Recent Transactions,156.0,4,0,0.738,217.0,0,4.0
+C10246,2026-01-17,22,Legacy IVR,Make a Payment,400.0,7,1,0.931,217.0,1,2.0
+C10247,2026-01-18,6,New Platform,Balance Inquiry,108.0,5,0,0.867,188.0,0,4.0
+C10248,2026-01-18,9,New Platform,Recent Transactions,123.0,5,0,0.764,167.0,0,4.0
+C10249,2026-01-18,12,Legacy IVR,Make a Payment,338.0,10,2,0.915,281.0,0,3.0
+C10250,2026-01-18,17,Legacy IVR,Unknown,218.0,6,1,0.845,392.0,0,5.0
+C10251,2026-01-18,17,Legacy IVR,Make a Payment,161.0,6,0,0.838,181.0,0,5.0
+C10252,2026-01-18,18,Legacy IVR,Make a Payment,352.0,10,2,0.874,362.0,0,3.0
+C10253,2026-01-18,20,Legacy IVR,Balance Inquiry,166.0,5,1,0.71,356.0,0,4.0
+C10254,2026-01-18,20,Legacy IVR,Make a Payment,290.0,7,0,0.859,300.0,0,5.0
+C10255,2026-01-18,21,New Platform,Balance Inquiry,144.0,5,1,0.746,176.0,0,4.0
+C10256,2026-01-18,21,Legacy IVR,Make a Payment,451.0,5,1,0.774,176.0,0,4.0
+C10257,2026-01-18,22,Legacy IVR,Recent Transactions,238.0,6,2,0.719,273.0,0,3.0
+C10258,2026-01-19,6,Legacy IVR,Make a Payment,201.0,5,1,0.989,360.0,0,4.0
+C10259,2026-01-19,6,Legacy IVR,Cancel a Payment,484.0,9,2,0.88,293.0,1,3.0
+C10260,2026-01-19,8,Legacy IVR,Cancel a Payment,343.0,5,1,0.79,224.0,0,3.0
+C10261,2026-01-19,9,Legacy IVR,Make a Payment,434.0,9,0,0.522,314.0,1,4.0
+C10262,2026-01-19,9,Legacy IVR,Balance Inquiry,156.0,5,1,0.957,472.0,0,4.0
+C10263,2026-01-19,11,Legacy IVR,Make a Payment,243.0,6,1,0.869,230.0,0,4.0
+C10264,2026-01-19,13,Legacy IVR,Recent Transactions,279.0,11,2,0.942,266.0,0,4.0
+C10265,2026-01-19,15,Legacy IVR,Balance Inquiry,162.0,8,0,0.838,208.0,0,5.0
+C10266,2026-01-19,17,New Platform,Balance Inquiry,114.0,4,0,0.949,150.0,0,5.0
+C10267,2026-01-19,19,Legacy IVR,Unknown,328.0,6,3,0.958,335.0,0,4.0
+C10268,2026-01-19,20,Legacy IVR,Rewards Redemption,339.0,9,3,0.92,335.0,0,4.0
+C10269,2026-01-19,21,New Platform,Recent Transactions,241.0,9,0,0.838,158.0,0,4.0
+C10270,2026-01-19,22,Legacy IVR,Make a Payment,312.0,11,2,0.915,177.0,0,4.0
+C10271,2026-01-19,22,Legacy IVR,Balance Inquiry,275.0,6,2,0.786,189.0,1,3.0
+C10272,2026-01-20,6,Legacy IVR,Rewards Redemption,365.0,5,1,0.937,246.0,0,4.0
+C10273,2026-01-20,8,Legacy IVR,Cancel a Payment,314.0,5,1,0.682,404.0,0,4.0
+C10274,2026-01-20,9,New Platform,Rewards Redemption,307.0,7,0,0.969,404.0,0,5.0
+C10275,2026-01-20,12,Legacy IVR,Recent Transactions,266.0,9,2,0.895,238.0,0,3.0
+C10276,2026-01-20,14,Legacy IVR,Balance Inquiry,197.0,6,3,0.86,227.0,0,3.0
+C10277,2026-01-20,14,New Platform,Make a Payment,216.0,7,1,0.953,205.0,0,3.0
+C10278,2026-01-20,14,Legacy IVR,Make a Payment,355.0,9,3,0.829,193.0,0,4.0
+C10279,2026-01-20,14,Legacy IVR,Recent Transactions,191.0,7,2,0.699,416.0,0,3.0
+C10280,2026-01-20,16,Legacy IVR,Rewards Redemption,406.0,9,1,0.913,258.0,0,4.0
+C10281,2026-01-20,17,Legacy IVR,Recent Transactions,194.0,6,0,0.807,193.0,0,5.0
+C10282,2026-01-20,21,Legacy IVR,Rewards Redemption,393.0,9,2,0.724,390.0,0,4.0
+C10283,2026-01-20,22,Legacy IVR,Make a Payment,363.0,8,4,0.818,274.0,0,3.0
+C10284,2026-01-21,6,New Platform,Make a Payment,295.0,8,2,0.967,171.0,0,4.0
+C10285,2026-01-21,7,Legacy IVR,Recent Transactions,163.0,5,0,0.968,266.0,0,4.0
+C10286,2026-01-21,12,New Platform,Rewards Redemption,266.0,8,0,0.875,191.0,0,4.0
+C10287,2026-01-21,12,Legacy IVR,Make a Payment,261.0,8,2,0.755,305.0,0,4.0
+C10288,2026-01-21,15,Legacy IVR,Rewards Redemption,289.0,6,0,0.482,248.0,0,4.0
+C10289,2026-01-21,17,Legacy IVR,Balance Inquiry,145.0,5,0,0.717,252.0,0,5.0
+C10291,2026-01-21,22,New Platform,Make a Payment,143.0,5,1,0.878,117.0,0,3.0
+C10292,2026-01-22,7,Legacy IVR,Make a Payment,380.0,6,0,0.648,307.0,1,2.0
+C10293,2026-01-22,8,Legacy IVR,Recent Transactions,192.0,6,0,0.87,161.0,0,3.0
+C10294,2026-01-22,8,Legacy IVR,Rewards Redemption,338.0,8,1,0.856,136.0,0,5.0
+C10295,2026-01-22,9,Legacy IVR,Rewards Redemption,345.0,11,1,0.838,288.0,0,3.0
+C10296,2026-01-22,9,New Platform,Balance Inquiry,144.0,5,1,0.983,195.0,0,4.0
+C10297,2026-01-22,10,New Platform,Recent Transactions,242.0,8,1,0.919,184.0,0,5.0
+C10298,2026-01-22,10,Legacy IVR,Rewards Redemption,369.0,6,2,0.938,176.0,0,4.0
+C10299,2026-01-22,11,New Platform,Balance Inquiry,109.0,4,0,0.836,121.0,0,5.0
+C10300,2026-01-22,11,New Platform,Make a Payment,441.0,12,3,0.838,94.0,1,2.0
+C10301,2026-01-22,11,Legacy IVR,Recent Transactions,185.0,4,1,0.819,341.0,0,5.0
+C10302,2026-01-22,15,Legacy IVR,Balance Inquiry,179.0,8,0,0.687,110.0,0,4.0
+C10303,2026-01-22,17,New Platform,Cancel a Payment,243.0,7,0,0.918,172.0,0,5.0
+C10304,2026-01-22,18,New Platform,Make a Payment,199.0,8,1,0.986,291.0,0,4.0
+C10306,2026-01-22,22,Legacy IVR,Cancel a Payment,306.0,12,2,0.947,170.0,0,3.0
+C10307,2026-01-22,22,Legacy IVR,Recent Transactions,286.0,9,3,0.842,216.0,0,4.0
+C10308,2026-01-23,8,New Platform,Balance Inquiry,89.0,3,0,0.784,176.0,0,5.0
+C10309,2026-01-23,9,New Platform,Cancel a Payment,197.0,8,1,0.877,210.0,0,4.0
+C10310,2026-01-23,11,New Platform,Make a Payment,309.0,6,0,0.889,152.0,0,5.0
+C10311,2026-01-23,13,New Platform,Recent Transactions,233.0,7,0,0.828,185.0,0,4.0
+C10312,2026-01-23,16,New Platform,Balance Inquiry,96.0,5,0,0.772,252.0,0,5.0
+C10313,2026-01-23,18,Legacy IVR,Rewards Redemption,411.0,8,0,0.823,301.0,0,5.0
+C10314,2026-01-23,19,Legacy IVR,Cancel a Payment,369.0,8,1,0.905,207.0,0,3.0
+C10315,2026-01-23,20,Legacy IVR,Balance Inquiry,320.0,7,1,0.824,207.0,1,3.0
+C10316,2026-01-23,22,Legacy IVR,Rewards Redemption,443.0,7,0,0.596,224.0,1,3.0
+C10317,2026-01-24,6,Legacy IVR,Recent Transactions,204.0,6,1,0.838,275.0,0,4.0
+C10318,2026-01-24,9,New Platform,Balance Inquiry,197.0,4,1,0.908,275.0,1,3.0
+C10319,2026-01-24,9,Legacy IVR,Make a Payment,277.0,10,2,0.823,135.0,0,4.0
+C10320,2026-01-24,10,Legacy IVR,Cancel a Payment,315.0,9,1,0.754,304.0,0,3.0
+C10321,2026-01-24,11,New Platform,Recent Transactions,202.0,6,1,0.939,304.0,0,4.0
+C10322,2026-01-24,11,Legacy IVR,Balance Inquiry,126.0,4,0,0.745,285.0,0,5.0
+C10323,2026-01-24,11,New Platform,Make a Payment,302.0,11,2,0.82,275.0,0,4.0
+C10324,2026-01-24,11,Legacy IVR,Make a Payment,336.0,5,2,0.823,266.0,0,3.0
+C10325,2026-01-24,12,Legacy IVR,Balance Inquiry,178.0,7,2,0.809,312.0,0,3.0
+C10327,2026-01-24,17,New Platform,Make a Payment,192.0,6,0,0.802,172.0,0,4.0
+C10328,2026-01-24,19,Legacy IVR,Balance Inquiry,229.0,11,2,0.766,319.0,0,3.0
+C10329,2026-01-24,21,Legacy IVR,Make a Payment,190.0,4,0,0.757,191.0,0,4.0
+C10330,2026-01-25,6,Legacy IVR,Make a Payment,276.0,10,2,0.775,178.0,0,4.0
+C10331,2026-01-25,7,Legacy IVR,Recent Transactions,224.0,7,1,0.72,248.0,0,4.0
+C10332,2026-01-25,10,New Platform,Cancel a Payment,258.0,5,0,0.686,409.0,0,4.0
+C10333,2026-01-25,11,Legacy IVR,Rewards Redemption,425.0,11,1,0.838,200.0,0,4.0
+C10334,2026-01-25,11,Legacy IVR,Balance Inquiry,125.0,5,0,0.838,215.0,0,4.0
+C10336,2026-01-25,13,New Platform,Recent Transactions,163.0,8,1,0.848,164.0,0,4.0
+C10337,2026-01-25,15,New Platform,Recent Transactions,159.0,5,1,0.74,231.0,0,3.0
+C10338,2026-01-25,16,Legacy IVR,Cancel a Payment,358.0,10,1,0.92,207.0,0,4.0
+C10339,2026-01-25,17,Legacy IVR,Unknown,375.0,5,1,0.727,174.0,1,4.0
+C10340,2026-01-25,18,New Platform,Balance Inquiry,123.0,4,0,0.795,282.0,0,4.0
+C10341,2026-01-25,19,Legacy IVR,Make a Payment,303.0,11,3,0.877,199.0,0,3.0
+C10342,2026-01-25,19,Legacy IVR,Rewards Redemption,467.0,4,0,0.701,296.0,1,4.0
+C10343,2026-01-25,20,Legacy IVR,Recent Transactions,266.0,11,2,0.789,199.0,0,4.0
+C10344,2026-01-25,22,New Platform,Recent Transactions,133.0,4,0,0.904,138.0,0,5.0
+C10345,2026-01-26,6,Legacy IVR,Make a Payment,300.0,6,0,0.724,138.0,0,4.0
+C10346,2026-01-26,8,Legacy IVR,Recent Transactions,261.0,7,3,0.833,286.0,0,3.0
+C10347,2026-01-26,8,Legacy IVR,Make a Payment,283.0,6,0,0.702,250.0,0,3.0
+C10348,2026-01-26,8,New Platform,Make a Payment,187.0,6,0,0.838,184.0,0,4.0
+C10349,2026-01-26,9,New Platform,Rewards Redemption,421.0,10,1,0.926,145.0,1,4.0
+C10350,2026-01-26,10,New Platform,Cancel a Payment,367.0,3,0,0.844,779.0,0,5.0
+C10351,2026-01-26,10,Legacy IVR,Make a Payment,270.0,8,3,0.893,231.0,0,4.0
+C10352,2026-01-26,12,New Platform,Make a Payment,264.0,8,1,0.807,143.0,0,4.0
+C10353,2026-01-26,12,Legacy IVR,Recent Transactions,194.0,8,0,0.898,293.0,0,5.0
+C10354,2026-01-26,12,Legacy IVR,Make a Payment,353.0,11,3,0.55,193.0,0,3.0
+C10355,2026-01-26,17,Legacy IVR,Make a Payment,330.0,7,3,0.842,181.0,0,3.0
+C10356,2026-01-26,18,New Platform,Rewards Redemption,352.0,10,1,0.814,121.0,0,4.0
+C10357,2026-01-26,20,Legacy IVR,Balance Inquiry,231.0,10,2,0.717,193.0,0,3.0
+C10360,2026-01-26,20,Legacy IVR,Rewards Redemption,307.0,8,1,0.744,249.0,0,4.0
+C10361,2026-01-26,21,New Platform,Make a Payment,207.0,9,0,0.952,175.0,0,5.0
+C10362,2026-01-26,21,Legacy IVR,Cancel a Payment,432.0,12,3,0.848,307.0,0,3.0
+C10363,2026-01-26,22,Legacy IVR,Make a Payment,312.0,7,0,0.876,206.0,0,5.0
+C10364,2026-01-26,22,New Platform,Rewards Redemption,388.0,10,2,0.944,200.0,0,4.0
+C10365,2026-01-27,8,New Platform,Make a Payment,306.0,9,3,0.844,182.0,0,4.0
+C10366,2026-01-27,14,Legacy IVR,Make a Payment,304.0,8,1,0.782,283.0,0,4.0
+C10367,2026-01-27,16,New Platform,Balance Inquiry,115.0,5,0,0.965,187.0,0,4.0
+C10368,2026-01-27,16,New Platform,Make a Payment,208.0,7,0,0.982,159.0,0,4.0
+C10369,2026-01-27,17,New Platform,Recent Transactions,188.0,5,0,0.895,211.0,0,5.0
+C10370,2026-01-27,17,New Platform,Balance Inquiry,164.0,5,2,0.978,151.0,0,4.0
+C10371,2026-01-27,17,New Platform,Balance Inquiry,141.0,6,0,0.838,290.0,0,4.0
+C10372,2026-01-27,21,Legacy IVR,Rewards Redemption,309.0,7,1,0.888,316.0,0,5.0
+C10373,2026-01-28,9,Legacy IVR,Balance Inquiry,149.0,6,2,0.669,192.0,0,3.0
+C10374,2026-01-28,12,Legacy IVR,Recent Transactions,205.0,5,0,0.827,192.0,0,4.0
+C10375,2026-01-28,12,Legacy IVR,Make a Payment,424.0,6,2,0.917,284.0,1,2.0
+C10376,2026-01-28,13,Legacy IVR,Rewards Redemption,334.0,11,2,0.73,318.0,0,3.0
+C10377,2026-01-28,13,New Platform,Balance Inquiry,106.0,4,0,0.865,276.0,0,3.0
+C10378,2026-01-28,17,New Platform,Recent Transactions,117.0,5,0,0.857,188.0,0,4.0
+C10379,2026-01-28,18,New Platform,Balance Inquiry,119.0,5,0,0.941,120.0,0,5.0
+C10380,2026-01-28,19,Legacy IVR,Make a Payment,376.0,8,2,0.791,219.0,1,2.0
+C10381,2026-01-28,22,New Platform,Cancel a Payment,213.0,3,0,0.885,229.0,0,5.0
+C10383,2026-01-29,8,Legacy IVR,Recent Transactions,253.0,8,3,0.95,221.0,0,3.0
+C10384,2026-01-29,8,Legacy IVR,Unknown,270.0,6,0,0.838,322.0,0,4.0
+C10385,2026-01-29,8,New Platform,Rewards Redemption,290.0,12,0,0.89,136.0,0,4.0
+C10386,2026-01-29,10,New Platform,Recent Transactions,210.0,7,1,0.907,188.0,0,3.0
+C10387,2026-01-29,15,Legacy IVR,Recent Transactions,225.0,5,1,0.771,242.0,0,3.0
+C10388,2026-01-29,17,Legacy IVR,Make a Payment,430.0,5,1,0.792,779.0,1,3.0
+C10389,2026-01-29,18,Legacy IVR,Rewards Redemption,349.0,11,2,0.862,276.0,0,4.0
+C10390,2026-01-29,19,Legacy IVR,Recent Transactions,151.0,4,0,0.901,174.0,0,5.0
+C10391,2026-01-29,20,Legacy IVR,Balance Inquiry,177.0,4,1,0.84,178.0,0,4.0
+C10392,2026-01-29,22,Legacy IVR,Cancel a Payment,326.0,6,0,0.871,186.0,0,5.0
+C10393,2026-01-30,8,Legacy IVR,Cancel a Payment,271.0,9,1,0.917,269.0,0,4.0
+C10394,2026-01-30,8,New Platform,Balance Inquiry,98.0,3,0,0.875,204.0,0,4.0
+C10395,2026-01-30,11,Legacy IVR,Cancel a Payment,383.0,8,1,0.666,198.0,0,4.0
+C10396,2026-01-30,11,New Platform,Rewards Redemption,376.0,7,0,0.846,167.0,1,3.0
+C10397,2026-01-30,13,New Platform,Make a Payment,203.0,7,0,0.884,165.0,0,4.0
+C10398,2026-01-30,13,Legacy IVR,Recent Transactions,286.0,7,1,0.9,259.0,1,4.0
+C10399,2026-01-30,14,Legacy IVR,Balance Inquiry,157.0,6,1,0.829,280.0,0,4.0
+C10400,2026-01-30,14,Legacy IVR,Make a Payment,312.0,9,3,0.792,245.0,0,3.0
+C10401,2026-01-30,17,Legacy IVR,Unknown,221.0,5,0,0.888,341.0,0,3.0
+C10402,2026-01-30,19,New Platform,Recent Transactions,209.0,6,1,0.766,160.0,0,3.0
+C10403,2026-01-30,20,New Platform,Make a Payment,144.0,7,0,0.88,169.0,0,4.0
+C10404,2026-01-31,6,Legacy IVR,Make a Payment,205.0,6,0,0.746,156.0,0,4.0
+C10405,2026-01-31,6,New Platform,Make a Payment,265.0,8,0,0.978,207.0,0,4.0
+C10406,2026-01-31,7,Legacy IVR,Make a Payment,322.0,8,1,0.838,171.0,0,4.0
+C10407,2026-01-31,9,New Platform,Balance Inquiry,103.0,4,0,0.851,273.0,0,4.0
+C10408,2026-01-31,9,New Platform,Make a Payment,287.0,8,1,0.864,261.0,0,5.0
+C10409,2026-01-31,10,New Platform,Make a Payment,299.0,5,1,0.943,176.0,0,4.0
+C10410,2026-01-31,11,New Platform,Make a Payment,359.0,7,1,0.849,140.0,1,2.0
+C10411,2026-01-31,11,Legacy IVR,Make a Payment,481.0,9,2,0.835,371.0,1,4.0
+C10412,2026-01-31,11,New Platform,Make a Payment,235.0,9,1,0.897,241.0,0,5.0
+C10413,2026-01-31,11,Legacy IVR,Cancel a Payment,243.0,6,0,0.784,234.0,0,4.0
+C10414,2026-01-31,15,New Platform,Balance Inquiry,149.0,5,2,0.912,239.0,0,4.0
+C10415,2026-01-31,18,Legacy IVR,Recent Transactions,347.0,7,2,0.756,213.0,0,4.0
+C10416,2026-01-31,20,Legacy IVR,Make a Payment,378.0,8,1,0.795,185.0,0,4.0
+C10417,2026-01-31,20,Legacy IVR,Recent Transactions,265.0,8,2,0.778,187.0,0,3.0
+C10418,2026-01-31,20,Legacy IVR,Cancel a Payment,408.0,8,2,0.863,152.0,0,4.0
+C10419,2026-01-31,20,Legacy IVR,Rewards Redemption,282.0,6,1,0.703,275.0,0,4.0
+C10420,2026-01-31,21,Legacy IVR,Make a Payment,422.0,12,2,0.781,306.0,0,4.0
+C10421,2026-01-31,21,New Platform,Make a Payment,260.0,9,2,0.967,201.0,0,4.0
+C10422,2026-01-31,21,New Platform,Recent Transactions,224.0,5,0,0.944,779.0,0,4.0
+C10424,2026-02-01,6,New Platform,Balance Inquiry,199.0,3,0,0.808,136.0,1,3.0
+C10425,2026-02-01,9,New Platform,Make a Payment,225.0,5,1,0.841,149.0,0,4.0
+C10426,2026-02-01,9,Legacy IVR,Cancel a Payment,276.0,4,0,0.858,326.0,0,5.0
+C10427,2026-02-01,11,New Platform,Cancel a Payment,214.0,9,0,0.838,167.0,0,3.0
+C10428,2026-02-01,11,Legacy IVR,Make a Payment,259.0,7,0,0.818,267.0,0,5.0
+C10429,2026-02-01,16,New Platform,Balance Inquiry,196.0,9,1,0.838,150.0,0,4.0
+C10430,2026-02-01,17,New Platform,Make a Payment,241.0,8,0,0.952,230.0,0,5.0
+C10431,2026-02-02,7,Legacy IVR,Rewards Redemption,397.0,10,3,0.589,217.0,0,3.0
+C10432,2026-02-02,8,Legacy IVR,Make a Payment,387.0,10,0,0.759,277.0,1,3.0
+C10433,2026-02-02,8,Legacy IVR,Balance Inquiry,123.0,3,0,0.912,208.0,0,3.0
+C10434,2026-02-02,9,New Platform,Make a Payment,147.0,5,0,0.832,182.0,0,3.0
+C10435,2026-02-02,10,New Platform,Cancel a Payment,256.0,6,0,0.894,338.0,0,5.0
+C10436,2026-02-02,11,Legacy IVR,Balance Inquiry,236.0,6,1,0.667,287.0,1,3.0
+C10437,2026-02-02,11,New Platform,Balance Inquiry,194.0,10,3,0.989,192.0,0,3.0
+C10438,2026-02-02,12,Legacy IVR,Balance Inquiry,159.0,4,1,0.77,216.0,0,3.0
+C10439,2026-02-02,12,Legacy IVR,Rewards Redemption,475.0,9,1,0.628,240.0,1,3.0
+C10440,2026-02-02,13,Legacy IVR,Unknown,190.0,6,1,0.792,180.0,0,4.0
+C10441,2026-02-02,15,Legacy IVR,Make a Payment,264.0,9,1,0.796,186.0,0,5.0
+C10442,2026-02-02,16,New Platform,Make a Payment,240.0,7,0,0.866,168.0,0,4.0
+C10443,2026-02-02,16,New Platform,Rewards Redemption,221.0,8,0,0.933,195.0,0,4.0
+C10444,2026-02-02,17,Legacy IVR,Recent Transactions,147.0,3,0,0.894,277.0,0,4.0
+C10445,2026-02-02,17,New Platform,Cancel a Payment,248.0,7,0,0.919,239.0,0,4.0
+C10446,2026-02-02,19,Legacy IVR,Recent Transactions,160.0,6,0,0.838,236.0,0,5.0
+C10447,2026-02-02,21,Legacy IVR,Make a Payment,248.0,6,0,0.845,253.0,0,5.0
+C10448,2026-02-03,10,Legacy IVR,Rewards Redemption,303.0,8,1,0.823,233.0,0,3.0
+C10449,2026-02-03,10,Legacy IVR,Rewards Redemption,439.0,9,0,0.802,165.0,1,4.0
+C10450,2026-02-03,12,Legacy IVR,Make a Payment,485.0,9,2,0.675,174.0,1,3.0
+C10451,2026-02-03,14,Legacy IVR,Make a Payment,268.0,4,1,0.847,393.0,0,3.0
+C10452,2026-02-03,19,Legacy IVR,Make a Payment,402.0,4,0,0.879,779.0,0,4.0
+C10453,2026-02-03,22,Legacy IVR,Cancel a Payment,383.0,9,0,0.705,213.0,0,4.0
+C10454,2026-02-04,7,Legacy IVR,Make a Payment,271.0,5,2,0.588,299.0,0,3.0
+C10455,2026-02-04,7,Legacy IVR,Make a Payment,319.0,9,1,0.837,264.0,0,4.0
+C10456,2026-02-04,10,Legacy IVR,Rewards Redemption,275.0,7,1,0.924,157.0,0,4.0
+C10457,2026-02-04,11,Legacy IVR,Make a Payment,394.0,7,2,0.751,209.0,0,5.0
+C10458,2026-02-04,14,New Platform,Make a Payment,266.0,5,1,0.913,221.0,0,4.0
+C10459,2026-02-04,15,Legacy IVR,Make a Payment,352.0,6,2,0.757,173.0,0,3.0
+C10460,2026-02-04,16,New Platform,Make a Payment,245.0,6,0,0.903,215.0,0,5.0
+C10461,2026-02-04,17,Legacy IVR,Cancel a Payment,338.0,9,2,0.761,281.0,0,4.0
+C10462,2026-02-04,17,Legacy IVR,Unknown,294.0,9,1,0.793,152.0,0,4.0
+C10463,2026-02-04,17,Legacy IVR,Make a Payment,449.0,6,1,0.86,779.0,1,2.0
+C10464,2026-02-05,6,Legacy IVR,Cancel a Payment,302.0,7,1,0.793,160.0,0,3.0
+C10465,2026-02-05,9,Legacy IVR,Make a Payment,401.0,9,2,0.826,225.0,1,1.0
+C10466,2026-02-05,9,Legacy IVR,Cancel a Payment,266.0,9,1,0.838,268.0,0,4.0
+C10467,2026-02-05,11,New Platform,Make a Payment,276.0,8,0,0.883,189.0,0,4.0
+C10468,2026-02-05,11,New Platform,Make a Payment,247.0,5,0,0.931,180.0,0,4.0
+C10469,2026-02-05,12,Legacy IVR,Recent Transactions,262.0,10,2,0.708,205.0,0,3.0
+C10470,2026-02-05,12,Legacy IVR,Rewards Redemption,329.0,7,2,0.772,112.0,0,4.0
+C10471,2026-02-05,12,Legacy IVR,Cancel a Payment,267.0,10,0,0.786,284.0,0,4.0
+C10472,2026-02-05,13,Legacy IVR,Recent Transactions,201.0,5,0,0.569,258.0,0,3.0
+C10473,2026-02-05,14,New Platform,Cancel a Payment,369.0,11,0,0.843,267.0,1,3.0
+C10474,2026-02-05,18,Legacy IVR,Make a Payment,449.0,7,3,0.59,350.0,1,2.0
+C10475,2026-02-06,6,Legacy IVR,Make a Payment,314.0,9,0,0.802,263.0,0,4.0
+C10476,2026-02-06,8,New Platform,Make a Payment,186.0,4,0,0.733,145.0,0,4.0
+C10477,2026-02-06,9,Legacy IVR,Balance Inquiry,181.0,6,2,0.925,222.0,0,4.0
+C10478,2026-02-06,10,New Platform,Make a Payment,269.0,9,0,0.887,191.0,0,4.0
+C10479,2026-02-06,16,Legacy IVR,Make a Payment,258.0,7,0,0.64,375.0,0,4.0
+C10480,2026-02-06,17,Legacy IVR,Recent Transactions,208.0,7,1,0.838,188.0,0,5.0
+C10481,2026-02-06,18,Legacy IVR,Cancel a Payment,338.0,10,2,0.685,261.0,0,3.0
+C10482,2026-02-06,21,Legacy IVR,Balance Inquiry,164.0,3,0,0.922,283.0,0,4.0
+C10483,2026-02-06,21,New Platform,Make a Payment,214.0,6,1,0.958,283.0,0,3.0
+C10484,2026-02-06,22,Legacy IVR,Balance Inquiry,120.0,6,1,0.898,237.0,0,4.0
+C10485,2026-02-07,7,New Platform,Balance Inquiry,92.0,4,0,0.675,147.0,0,4.0
+C10486,2026-02-07,8,Legacy IVR,Make a Payment,229.0,6,0,0.912,156.0,0,5.0
+C10487,2026-02-07,10,New Platform,Rewards Redemption,251.0,5,0,0.813,156.0,0,4.0
+C10488,2026-02-07,11,New Platform,Recent Transactions,166.0,5,0,0.943,222.0,0,4.0
+C10489,2026-02-07,12,Legacy IVR,Balance Inquiry,189.0,6,1,0.758,265.0,0,3.0
+C10490,2026-02-07,12,Legacy IVR,Recent Transactions,193.0,5,1,0.949,298.0,0,3.0
+C10491,2026-02-07,13,Legacy IVR,Cancel a Payment,323.0,7,0,0.952,193.0,0,5.0
+C10492,2026-02-07,13,Legacy IVR,Rewards Redemption,325.0,7,1,0.888,184.0,0,4.0
+C10493,2026-02-07,13,Legacy IVR,Make a Payment,339.0,8,1,0.867,194.0,0,3.0
+C10494,2026-02-07,13,New Platform,Balance Inquiry,128.0,4,1,0.951,228.0,0,4.0
+C10495,2026-02-07,14,New Platform,Balance Inquiry,126.0,6,1,0.944,175.0,0,3.0
+C10496,2026-02-07,15,New Platform,Cancel a Payment,253.0,5,0,0.932,186.0,0,5.0
+C10497,2026-02-07,17,New Platform,Rewards Redemption,271.0,7,0,0.894,193.0,0,3.0
+C10498,2026-02-07,18,Legacy IVR,Balance Inquiry,230.0,6,2,0.858,408.0,0,5.0
+C10499,2026-02-07,18,Legacy IVR,Balance Inquiry,122.0,5,0,0.855,408.0,0,4.0
+C10500,2026-02-07,19,New Platform,Make a Payment,368.0,12,2,0.841,267.0,1,4.0
+C10501,2026-02-07,19,Legacy IVR,Cancel a Payment,235.0,6,1,0.614,192.0,0,5.0
+C10502,2026-02-07,20,Legacy IVR,Make a Payment,442.0,10,3,0.649,233.0,1,3.0
+C10503,2026-02-07,20,Legacy IVR,Rewards Redemption,373.0,6,1,0.751,251.0,0,3.0
+C10504,2026-02-07,20,New Platform,Make a Payment,307.0,8,0,0.872,262.0,0,5.0
+C10505,2026-02-07,21,Legacy IVR,Recent Transactions,261.0,8,3,0.872,184.0,0,4.0
+C10506,2026-02-07,21,Legacy IVR,Recent Transactions,270.0,10,3,0.862,184.0,0,3.0
+C10507,2026-02-07,21,New Platform,Balance Inquiry,123.0,4,0,0.953,196.0,0,4.0
+C10508,2026-02-07,22,Legacy IVR,Recent Transactions,255.0,8,1,0.838,239.0,0,3.0
+C10509,2026-02-08,6,Legacy IVR,Make a Payment,274.0,7,1,0.697,305.0,0,5.0
+C10510,2026-02-08,8,Legacy IVR,Make a Payment,269.0,7,2,0.87,203.0,0,4.0
+C10511,2026-02-08,10,New Platform,Rewards Redemption,280.0,9,1,0.885,215.0,0,4.0
+C10512,2026-02-08,10,New Platform,Recent Transactions,190.0,6,0,0.847,214.0,0,5.0
+C10513,2026-02-08,10,Legacy IVR,Make a Payment,316.0,10,1,0.868,154.0,0,4.0
+C10514,2026-02-08,11,New Platform,Make a Payment,270.0,7,1,0.967,226.0,0,3.0
+C10515,2026-02-08,12,Legacy IVR,Cancel a Payment,445.0,9,2,0.824,224.0,1,2.0
+C10516,2026-02-08,12,New Platform,Make a Payment,245.0,7,2,0.87,179.0,0,4.0
+C10517,2026-02-08,13,New Platform,Make a Payment,257.0,7,0,0.838,198.0,0,4.0
+C10518,2026-02-08,13,New Platform,Cancel a Payment,264.0,9,0,0.872,151.0,0,4.0
+C10519,2026-02-08,14,Legacy IVR,Rewards Redemption,252.0,5,1,0.896,321.0,0,4.0
+C10520,2026-02-08,14,Legacy IVR,Make a Payment,473.0,8,1,0.882,225.0,1,2.0
+C10521,2026-02-08,15,Legacy IVR,Cancel a Payment,288.0,4,0,0.79,228.0,0,5.0
+C10522,2026-02-08,18,Legacy IVR,Make a Payment,337.0,11,2,0.546,331.0,0,5.0
+C10523,2026-02-08,20,New Platform,Cancel a Payment,249.0,7,0,0.93,201.0,0,3.0
+C10524,2026-02-08,21,Legacy IVR,Make a Payment,337.0,5,1,0.852,257.0,0,5.0
+C10525,2026-02-09,8,Legacy IVR,Balance Inquiry,183.0,7,2,0.935,240.0,0,4.0
+C10526,2026-02-09,9,Legacy IVR,Make a Payment,288.0,6,3,0.885,243.0,0,4.0
+C10527,2026-02-09,10,Legacy IVR,Make a Payment,360.0,7,2,0.766,313.0,0,3.0
+C10528,2026-02-09,11,Legacy IVR,Make a Payment,300.0,8,1,0.887,269.0,0,5.0
+C10529,2026-02-09,11,Legacy IVR,Balance Inquiry,169.0,6,2,0.704,237.0,0,4.0
+C10530,2026-02-09,11,Legacy IVR,Balance Inquiry,158.0,7,1,0.679,133.0,0,4.0
+C10531,2026-02-09,11,New Platform,Recent Transactions,143.0,5,1,0.846,153.0,0,4.0
+C10532,2026-02-09,12,Legacy IVR,Make a Payment,252.0,8,1,0.747,197.0,0,4.0
+C10533,2026-02-09,12,Legacy IVR,Make a Payment,274.0,8,1,0.938,326.0,0,3.0
+C10534,2026-02-09,17,Legacy IVR,Make a Payment,210.0,8,2,0.739,150.0,0,4.0
+C10535,2026-02-09,20,New Platform,Recent Transactions,130.0,3,0,0.926,141.0,0,5.0
+C10536,2026-02-09,21,New Platform,Cancel a Payment,431.0,8,2,0.978,152.0,1,3.0
+C10537,2026-02-09,22,New Platform,Cancel a Payment,225.0,6,0,0.823,199.0,0,4.0
+C10538,2026-02-10,7,Legacy IVR,Balance Inquiry,132.0,5,1,0.92,199.0,0,5.0
+C10539,2026-02-10,7,Legacy IVR,Cancel a Payment,276.0,7,1,0.838,251.0,0,3.0
+C10540,2026-02-10,7,Legacy IVR,Recent Transactions,291.0,6,0,0.749,227.0,0,5.0
+C10541,2026-02-10,7,New Platform,Unknown,231.0,9,0,0.838,206.0,0,4.0
+C10542,2026-02-10,9,Legacy IVR,Recent Transactions,125.0,4,0,0.849,224.0,0,4.0
+C10543,2026-02-10,10,Legacy IVR,Balance Inquiry,139.0,5,1,0.838,137.0,0,4.0
+C10544,2026-02-10,14,Legacy IVR,Recent Transactions,335.0,8,1,0.838,152.0,1,3.0
+C10545,2026-02-10,14,Legacy IVR,Recent Transactions,200.0,5,0,0.873,194.0,0,4.0
+C10546,2026-02-10,15,Legacy IVR,Recent Transactions,228.0,6,2,0.838,243.0,0,3.0
+C10547,2026-02-10,16,Legacy IVR,Recent Transactions,146.0,3,0,0.748,308.0,0,4.0
+C10548,2026-02-10,17,Legacy IVR,Cancel a Payment,280.0,6,0,0.877,222.0,0,4.0
+C10549,2026-02-10,18,New Platform,Recent Transactions,154.0,6,0,0.923,126.0,0,4.0
+C10550,2026-02-10,18,New Platform,Cancel a Payment,259.0,8,0,0.953,130.0,0,4.0
+C10551,2026-02-10,18,Legacy IVR,Make a Payment,298.0,7,1,0.79,236.0,0,5.0
+C10552,2026-02-10,18,Legacy IVR,Make a Payment,223.0,6,0,0.781,138.0,0,4.0
+C10553,2026-02-10,21,Legacy IVR,Make a Payment,289.0,7,0,0.791,233.0,0,5.0
+C10554,2026-02-11,6,Legacy IVR,Recent Transactions,397.0,5,1,0.585,302.0,1,3.0
+C10555,2026-02-11,7,New Platform,Rewards Redemption,444.0,9,4,0.838,218.0,1,2.0
+C10556,2026-02-11,8,Legacy IVR,Balance Inquiry,259.0,6,1,0.845,779.0,0,4.0
+C10557,2026-02-11,8,Legacy IVR,Make a Payment,395.0,11,4,0.887,417.0,0,2.0
+C10558,2026-02-11,9,New Platform,Cancel a Payment,220.0,5,0,0.845,181.0,0,4.0
+C10559,2026-02-11,9,New Platform,Cancel a Payment,238.0,5,0,0.936,181.0,0,3.0
+C10560,2026-02-11,11,Legacy IVR,Balance Inquiry,143.0,5,0,0.73,192.0,0,4.0
+C10561,2026-02-11,11,Legacy IVR,Rewards Redemption,329.0,7,1,0.656,169.0,0,4.0
+C10562,2026-02-11,12,New Platform,Make a Payment,227.0,10,1,0.777,131.0,0,4.0
+C10563,2026-02-11,16,New Platform,Cancel a Payment,213.0,10,0,0.871,215.0,0,3.0
+C10564,2026-02-11,18,New Platform,Rewards Redemption,273.0,13,0,0.845,229.0,0,5.0
+C10565,2026-02-11,18,Legacy IVR,Balance Inquiry,152.0,4,1,0.741,227.0,0,5.0
+C10566,2026-02-11,18,Legacy IVR,Recent Transactions,239.0,7,1,0.933,196.0,0,5.0
+C10567,2026-02-11,21,Legacy IVR,Make a Payment,273.0,5,1,0.917,205.0,0,2.0
+C10568,2026-02-11,22,New Platform,Make a Payment,192.0,7,0,0.838,205.0,0,4.0
+C10569,2026-02-12,7,Legacy IVR,Recent Transactions,215.0,7,1,0.807,177.0,0,3.0
+C10570,2026-02-12,8,Legacy IVR,Recent Transactions,164.0,4,0,0.945,260.0,0,4.0
+C10571,2026-02-12,12,Legacy IVR,Make a Payment,477.0,9,2,0.722,260.0,1,2.0
+C10572,2026-02-12,13,New Platform,Balance Inquiry,117.0,5,1,0.816,213.0,0,4.0
+C10573,2026-02-12,14,Legacy IVR,Balance Inquiry,225.0,6,3,0.838,157.0,0,3.0
+C10574,2026-02-12,14,Legacy IVR,Cancel a Payment,250.0,8,0,0.791,241.0,0,3.0
+C10575,2026-02-12,17,New Platform,Make a Payment,238.0,9,0,0.85,142.0,0,4.0
+C10576,2026-02-12,18,Legacy IVR,Recent Transactions,282.0,7,2,0.885,149.0,0,3.0
+C10577,2026-02-12,18,New Platform,Recent Transactions,186.0,4,1,0.911,261.0,0,4.0
+C10578,2026-02-12,20,Legacy IVR,Balance Inquiry,165.0,6,1,0.86,364.0,0,4.0
+C10579,2026-02-12,21,Legacy IVR,Make a Payment,251.0,7,1,0.71,167.0,0,4.0
+C10580,2026-02-12,22,Legacy IVR,Cancel a Payment,259.0,6,1,0.851,171.0,0,5.0
+C10581,2026-02-12,22,Legacy IVR,Rewards Redemption,466.0,9,1,0.774,202.0,0,4.0
+C10582,2026-02-13,6,Legacy IVR,Cancel a Payment,242.0,7,1,0.863,286.0,0,3.0
+C10583,2026-02-13,7,Legacy IVR,Make a Payment,248.0,6,0,0.842,246.0,0,4.0
+C10584,2026-02-13,8,New Platform,Recent Transactions,114.0,4,0,0.833,246.0,0,4.0
+C10585,2026-02-13,8,Legacy IVR,Cancel a Payment,264.0,6,0,0.838,167.0,0,4.0
+C10586,2026-02-13,12,Legacy IVR,Make a Payment,412.0,10,2,0.886,254.0,1,3.0
+C10587,2026-02-13,12,Legacy IVR,Recent Transactions,391.0,9,1,0.533,291.0,1,3.0
+C10588,2026-02-13,13,New Platform,Make a Payment,289.0,7,0,0.865,202.0,0,4.0
+C10589,2026-02-13,14,New Platform,Make a Payment,333.0,7,1,0.874,240.0,1,3.0
+C10590,2026-02-13,15,Legacy IVR,Balance Inquiry,198.0,6,1,0.896,218.0,0,3.0
+C10591,2026-02-13,15,New Platform,Recent Transactions,152.0,6,0,0.941,115.0,0,4.0
+C10592,2026-02-13,15,Legacy IVR,Make a Payment,274.0,10,1,0.718,199.0,0,4.0
+C10593,2026-02-13,16,Legacy IVR,Recent Transactions,312.0,10,4,0.782,351.0,0,4.0
+C10594,2026-02-13,16,Legacy IVR,Balance Inquiry,189.0,5,1,0.814,175.0,0,5.0
+C10595,2026-02-13,17,Legacy IVR,Rewards Redemption,318.0,9,0,0.783,175.0,0,5.0
+C10596,2026-02-13,17,New Platform,Rewards Redemption,268.0,7,0,0.866,363.0,0,3.0
+C10597,2026-02-13,18,Legacy IVR,Cancel a Payment,281.0,11,0,0.813,364.0,0,5.0
+C10598,2026-02-13,22,Legacy IVR,Balance Inquiry,119.0,5,0,0.831,257.0,0,5.0
+C10599,2026-02-14,9,Legacy IVR,Make a Payment,226.0,8,0,0.869,257.0,0,4.0
+C10600,2026-02-14,11,Legacy IVR,Cancel a Payment,332.0,5,1,0.834,315.0,0,4.0
+C10602,2026-02-14,15,Legacy IVR,Make a Payment,299.0,6,1,0.886,248.0,0,3.0
+C10603,2026-02-14,16,Legacy IVR,Balance Inquiry,138.0,4,0,0.769,269.0,0,4.0
+C10604,2026-02-14,18,New Platform,Make a Payment,213.0,6,1,0.891,144.0,0,3.0
+C10605,2026-02-14,18,New Platform,Cancel a Payment,209.0,3,0,0.949,171.0,0,4.0
+C10606,2026-02-14,20,Legacy IVR,Cancel a Payment,268.0,10,1,0.732,220.0,0,4.0
+C10607,2026-02-14,21,New Platform,Rewards Redemption,279.0,12,0,0.724,201.0,0,3.0
+C10608,2026-02-14,21,New Platform,Make a Payment,372.0,6,0,0.858,141.0,1,3.0
+C10609,2026-02-14,22,New Platform,Balance Inquiry,158.0,8,1,0.838,213.0,0,4.0
+C10610,2026-02-14,22,New Platform,Rewards Redemption,243.0,6,1,0.899,195.0,0,4.0
+C10611,2026-02-14,22,Legacy IVR,Rewards Redemption,390.0,15,1,0.833,153.0,0,3.0
+C10612,2026-02-15,6,New Platform,Cancel a Payment,318.0,6,1,0.944,201.0,1,3.0
+C10613,2026-02-15,7,New Platform,Recent Transactions,193.0,4,0,0.831,357.0,0,4.0
+C10614,2026-02-15,8,Legacy IVR,Rewards Redemption,315.0,4,0,0.714,167.0,0,4.0
+C10615,2026-02-15,9,New Platform,Balance Inquiry,97.0,4,1,0.8,160.0,0,3.0
+C10616,2026-02-15,9,Legacy IVR,Make a Payment,324.0,7,1,0.694,206.0,0,4.0
+C10617,2026-02-15,9,New Platform,Cancel a Payment,287.0,10,2,0.909,194.0,0,4.0
+C10618,2026-02-15,11,Legacy IVR,Cancel a Payment,206.0,6,1,0.792,259.0,0,4.0
+C10619,2026-02-15,13,Legacy IVR,Recent Transactions,238.0,6,1,0.762,233.0,0,4.0
+C10620,2026-02-15,14,Legacy IVR,Rewards Redemption,459.0,10,3,0.894,191.0,0,3.0
+C10621,2026-02-15,15,New Platform,Balance Inquiry,128.0,4,1,0.857,167.0,0,4.0
+C10622,2026-02-15,15,New Platform,Recent Transactions,141.0,4,0,0.892,258.0,0,4.0
+C10623,2026-02-15,16,Legacy IVR,Recent Transactions,325.0,6,1,0.613,342.0,1,4.0
+C10624,2026-02-15,17,Legacy IVR,Recent Transactions,263.0,8,1,0.618,285.0,0,4.0
+C10625,2026-02-15,21,Legacy IVR,Rewards Redemption,316.0,7,0,0.876,273.0,1,4.0
+C10626,2026-02-16,8,Legacy IVR,Make a Payment,289.0,9,3,0.727,196.0,0,4.0
+C10627,2026-02-16,8,New Platform,Make a Payment,234.0,8,0,0.945,246.0,0,3.0
+C10628,2026-02-16,9,New Platform,Make a Payment,260.0,10,1,0.833,219.0,0,4.0
+C10629,2026-02-16,10,New Platform,Recent Transactions,167.0,4,0,0.933,142.0,0,5.0
+C10630,2026-02-16,10,New Platform,Balance Inquiry,208.0,5,0,0.906,186.0,1,3.0
+C10631,2026-02-16,11,Legacy IVR,Make a Payment,355.0,8,2,0.697,230.0,0,4.0
+C10632,2026-02-16,13,New Platform,Make a Payment,212.0,3,0,0.853,136.0,0,5.0
+C10633,2026-02-16,16,Legacy IVR,Cancel a Payment,338.0,9,1,0.812,188.0,0,4.0
+C10634,2026-02-16,16,Legacy IVR,Rewards Redemption,457.0,10,2,0.828,187.0,1,2.0
+C10635,2026-02-16,17,New Platform,Rewards Redemption,231.0,7,1,0.84,147.0,0,4.0
+C10636,2026-02-16,18,Legacy IVR,Make a Payment,313.0,7,1,0.762,175.0,0,4.0
+C10637,2026-02-16,20,Legacy IVR,Balance Inquiry,189.0,7,3,0.924,230.0,0,3.0
+C10638,2026-02-17,6,New Platform,Make a Payment,263.0,5,0,0.836,286.0,0,4.0
+C10639,2026-02-17,6,Legacy IVR,Make a Payment,275.0,6,1,0.693,160.0,0,5.0
+C10640,2026-02-17,9,New Platform,Recent Transactions,150.0,5,0,0.891,169.0,0,5.0
+C10641,2026-02-17,11,New Platform,Recent Transactions,171.0,9,0,0.942,247.0,0,5.0
+C10642,2026-02-17,14,New Platform,Make a Payment,248.0,5,1,0.892,174.0,0,4.0
+C10643,2026-02-17,15,New Platform,Make a Payment,225.0,4,0,0.928,210.0,0,5.0
+C10644,2026-02-17,15,Legacy IVR,Rewards Redemption,322.0,5,0,0.839,221.0,0,5.0
+C10645,2026-02-17,16,Legacy IVR,Balance Inquiry,186.0,6,2,0.805,177.0,0,3.0
+C10646,2026-02-17,16,New Platform,Balance Inquiry,76.0,3,0,0.879,171.0,0,4.0
+C10647,2026-02-17,17,Legacy IVR,Recent Transactions,323.0,12,2,0.838,151.0,0,3.0
+C10648,2026-02-17,17,Legacy IVR,Balance Inquiry,192.0,7,2,0.848,357.0,0,5.0
+C10649,2026-02-17,17,Legacy IVR,Balance Inquiry,344.0,8,4,0.847,354.0,1,3.0
+C10650,2026-02-17,19,New Platform,Make a Payment,307.0,10,2,0.815,166.0,0,3.0
+C10651,2026-02-17,21,New Platform,Make a Payment,255.0,11,2,0.987,192.0,0,3.0
+C10652,2026-02-17,22,New Platform,Make a Payment,209.0,8,0,0.895,277.0,0,4.0
+C10653,2026-02-18,12,New Platform,Balance Inquiry,100.0,4,0,0.966,330.0,0,5.0
+C10654,2026-02-18,13,Legacy IVR,Make a Payment,335.0,6,0,0.889,330.0,0,5.0
+C10656,2026-02-18,16,New Platform,Balance Inquiry,213.0,3,0,0.799,176.0,1,2.0
+C10657,2026-02-18,17,Legacy IVR,Make a Payment,372.0,8,1,0.905,274.0,0,5.0
+C10658,2026-02-18,17,Legacy IVR,Balance Inquiry,230.0,7,3,0.858,230.0,0,4.0
+C10659,2026-02-18,19,Legacy IVR,Recent Transactions,397.0,10,3,0.836,172.0,1,3.0
+C10660,2026-02-18,19,New Platform,Recent Transactions,169.0,6,0,0.96,170.0,0,5.0
+C10661,2026-02-18,20,New Platform,Recent Transactions,148.0,4,0,0.818,162.0,0,4.0
+C10662,2026-02-18,20,New Platform,Make a Payment,294.0,8,2,0.84,131.0,0,5.0
+C10663,2026-02-18,21,New Platform,Make a Payment,287.0,7,0,0.842,149.0,0,4.0
+C10664,2026-02-18,22,New Platform,Balance Inquiry,112.0,4,1,0.949,116.0,0,4.0
+C10665,2026-02-18,22,New Platform,Cancel a Payment,397.0,5,0,0.929,206.0,1,3.0
+C10667,2026-02-19,8,New Platform,Make a Payment,330.0,5,1,0.864,144.0,1,2.0
+C10668,2026-02-19,13,New Platform,Make a Payment,192.0,7,0,0.897,157.0,0,4.0
+C10669,2026-02-19,14,Legacy IVR,Balance Inquiry,211.0,7,1,0.743,333.0,0,4.0
+C10670,2026-02-19,16,New Platform,Unknown,351.0,13,1,0.954,124.0,0,5.0
+C10671,2026-02-19,17,New Platform,Make a Payment,170.0,7,0,0.886,124.0,0,4.0
+C10672,2026-02-19,18,New Platform,Cancel a Payment,262.0,11,1,0.861,213.0,0,4.0
+C10673,2026-02-19,18,New Platform,Rewards Redemption,298.0,10,1,0.822,125.0,0,4.0
+C10674,2026-02-19,18,Legacy IVR,Make a Payment,198.0,6,0,0.911,206.0,0,4.0
+C10675,2026-02-19,18,New Platform,Make a Payment,193.0,6,0,0.981,194.0,0,4.0
+C10676,2026-02-19,21,New Platform,Balance Inquiry,146.0,6,1,0.86,199.0,0,4.0
+C10677,2026-02-19,22,New Platform,Recent Transactions,142.0,3,0,0.838,127.0,0,5.0
+C10678,2026-02-19,22,Legacy IVR,Balance Inquiry,126.0,5,0,0.789,144.0,0,5.0
+C10679,2026-02-20,6,New Platform,Balance Inquiry,110.0,4,0,0.78,170.0,0,4.0
+C10680,2026-02-20,10,New Platform,Recent Transactions,147.0,6,0,0.957,142.0,0,4.0
+C10681,2026-02-20,11,Legacy IVR,Make a Payment,372.0,9,2,0.757,480.0,0,4.0
+C10682,2026-02-20,11,Legacy IVR,Make a Payment,265.0,8,1,0.745,480.0,0,3.0
+C10683,2026-02-20,12,New Platform,Balance Inquiry,113.0,4,0,0.948,173.0,0,3.0
+C10684,2026-02-20,14,Legacy IVR,Recent Transactions,298.0,4,1,0.879,123.0,1,2.0
+C10685,2026-02-20,15,Legacy IVR,Balance Inquiry,90.0,3,0,0.889,278.0,0,4.0
+C10686,2026-02-20,15,New Platform,Recent Transactions,133.0,3,0,0.966,197.0,0,3.0
+C10687,2026-02-20,17,New Platform,Recent Transactions,180.0,7,2,0.913,177.0,0,4.0
+C10688,2026-02-20,17,New Platform,Balance Inquiry,99.0,5,0,0.838,163.0,0,3.0
+C10689,2026-02-20,18,New Platform,Cancel a Payment,338.0,10,2,0.858,250.0,0,4.0
+C10690,2026-02-20,19,Legacy IVR,Make a Payment,200.0,7,0,0.904,102.0,0,5.0
+C10691,2026-02-20,19,Legacy IVR,Balance Inquiry,229.0,8,3,0.895,307.0,0,3.0
+C10692,2026-02-20,21,New Platform,Balance Inquiry,115.0,3,0,0.892,197.0,0,4.0
+C10693,2026-02-20,22,New Platform,Make a Payment,257.0,7,1,0.93,174.0,0,3.0
+C10695,2026-02-21,6,New Platform,Recent Transactions,178.0,4,0,0.97,117.0,0,5.0
+C10696,2026-02-21,7,Legacy IVR,Make a Payment,259.0,9,1,0.832,117.0,0,3.0
+C10697,2026-02-21,7,New Platform,Make a Payment,222.0,9,0,0.906,223.0,0,5.0
+C10698,2026-02-21,7,Legacy IVR,Balance Inquiry,267.0,8,3,0.855,223.0,0,3.0
+C10699,2026-02-21,7,New Platform,Cancel a Payment,265.0,4,0,0.947,223.0,0,4.0
+C10700,2026-02-21,8,New Platform,Balance Inquiry,234.0,7,1,0.83,235.0,1,4.0
+C10701,2026-02-21,8,New Platform,Cancel a Payment,278.0,11,0,0.862,161.0,0,4.0
+C10702,2026-02-21,9,Legacy IVR,Make a Payment,264.0,9,1,0.756,233.0,0,5.0
+C10703,2026-02-21,10,New Platform,Balance Inquiry,82.0,4,0,0.819,264.0,0,5.0
+C10704,2026-02-21,11,New Platform,Make a Payment,223.0,9,2,0.93,163.0,0,4.0
+C10705,2026-02-21,13,New Platform,Recent Transactions,238.0,9,1,0.918,163.0,0,4.0
+C10706,2026-02-21,13,Legacy IVR,Make a Payment,374.0,8,4,0.745,171.0,0,4.0
+C10707,2026-02-21,14,Legacy IVR,Recent Transactions,343.0,8,3,0.806,176.0,0,3.0
+C10708,2026-02-21,14,Legacy IVR,Balance Inquiry,195.0,8,2,0.769,313.0,0,4.0
+C10709,2026-02-21,15,Legacy IVR,Make a Payment,466.0,5,0,0.648,125.0,1,4.0
+C10710,2026-02-21,15,New Platform,Make a Payment,221.0,6,0,0.939,186.0,0,4.0
+C10711,2026-02-21,16,Legacy IVR,Balance Inquiry,145.0,3,0,0.76,170.0,0,4.0
+C10712,2026-02-21,19,Legacy IVR,Rewards Redemption,262.0,5,0,0.825,220.0,0,3.0
+C10714,2026-02-21,19,New Platform,Make a Payment,295.0,5,1,0.935,296.0,0,4.0
+C10715,2026-02-21,19,Legacy IVR,Make a Payment,492.0,11,2,0.897,162.0,1,3.0
+C10716,2026-02-21,21,Legacy IVR,Make a Payment,163.0,6,0,0.616,171.0,0,5.0
+C10717,2026-02-21,22,Legacy IVR,Recent Transactions,183.0,6,0,0.808,200.0,0,4.0
+C10718,2026-02-21,22,New Platform,Rewards Redemption,323.0,8,0,0.867,238.0,0,4.0
+C10719,2026-02-21,22,Legacy IVR,Balance Inquiry,194.0,6,1,0.796,196.0,0,4.0
+C10720,2026-02-22,8,Legacy IVR,Balance Inquiry,167.0,7,1,0.845,281.0,0,5.0
+C10721,2026-02-22,8,New Platform,Make a Payment,225.0,9,1,0.928,197.0,0,4.0
+C10722,2026-02-22,9,New Platform,Rewards Redemption,216.0,9,2,0.885,215.0,0,4.0
+C10723,2026-02-22,11,Legacy IVR,Make a Payment,274.0,7,1,0.838,212.0,0,4.0
+C10724,2026-02-22,11,New Platform,Make a Payment,261.0,6,1,0.924,175.0,0,4.0
+C10725,2026-02-22,14,New Platform,Cancel a Payment,317.0,8,1,0.932,177.0,0,3.0
+C10726,2026-02-22,14,New Platform,Balance Inquiry,162.0,4,0,0.942,255.0,0,4.0
+C10727,2026-02-22,15,New Platform,Make a Payment,173.0,6,0,0.935,260.0,0,5.0
+C10729,2026-02-23,8,New Platform,Cancel a Payment,266.0,5,0,0.933,184.0,0,4.0
+C10730,2026-02-23,8,Legacy IVR,Balance Inquiry,158.0,6,1,0.835,141.0,0,4.0
+C10731,2026-02-23,8,Legacy IVR,Rewards Redemption,489.0,11,1,0.897,779.0,0,3.0
+C10732,2026-02-23,8,New Platform,Make a Payment,245.0,11,0,0.764,142.0,0,4.0
+C10733,2026-02-23,9,Legacy IVR,Recent Transactions,201.0,4,0,0.872,241.0,0,4.0
+C10734,2026-02-23,10,Legacy IVR,Recent Transactions,199.0,6,2,0.892,364.0,0,4.0
+C10735,2026-02-23,11,New Platform,Balance Inquiry,130.0,5,2,0.905,157.0,0,4.0
+C10736,2026-02-23,12,New Platform,Recent Transactions,183.0,5,0,0.75,108.0,0,5.0
+C10737,2026-02-23,16,New Platform,Balance Inquiry,123.0,5,1,0.954,265.0,0,4.0
+C10738,2026-02-23,18,Legacy IVR,Make a Payment,266.0,5,1,0.904,270.0,0,5.0
+C10739,2026-02-23,19,New Platform,Make a Payment,225.0,6,1,0.838,164.0,0,3.0
+C10740,2026-02-23,19,New Platform,Rewards Redemption,388.0,10,1,0.85,186.0,1,4.0
+C10741,2026-02-23,21,Legacy IVR,Make a Payment,310.0,7,1,0.838,243.0,0,4.0
+C10742,2026-02-23,21,Legacy IVR,Recent Transactions,208.0,7,1,0.734,212.0,0,3.0
+C10743,2026-02-24,6,Legacy IVR,Make a Payment,458.0,8,1,0.607,287.0,1,5.0
+C10744,2026-02-24,7,New Platform,Cancel a Payment,290.0,9,1,0.859,154.0,0,4.0
+C10745,2026-02-24,7,New Platform,Balance Inquiry,180.0,8,1,0.877,306.0,0,4.0
+C10746,2026-02-24,7,Legacy IVR,Cancel a Payment,352.0,8,1,0.662,183.0,1,4.0
+C10747,2026-02-24,10,New Platform,Make a Payment,246.0,7,0,0.99,248.0,0,4.0
+C10748,2026-02-24,11,New Platform,Recent Transactions,147.0,7,0,0.965,208.0,0,5.0
+C10749,2026-02-24,14,Legacy IVR,Rewards Redemption,380.0,12,1,0.773,286.0,0,3.0
+C10750,2026-02-24,15,New Platform,Balance Inquiry,143.0,7,1,0.838,90.0,0,4.0
+C10751,2026-02-24,15,New Platform,Make a Payment,209.0,5,0,0.952,209.0,0,4.0
+C10752,2026-02-24,19,New Platform,Make a Payment,322.0,8,2,0.969,275.0,0,5.0
+C10753,2026-02-24,19,Legacy IVR,Recent Transactions,177.0,5,0,0.788,269.0,0,4.0
+C10754,2026-02-24,20,Legacy IVR,Make a Payment,241.0,5,0,0.862,149.0,0,4.0
+C10755,2026-02-25,8,New Platform,Rewards Redemption,260.0,9,1,0.831,178.0,0,4.0
+C10756,2026-02-25,8,New Platform,Cancel a Payment,319.0,6,2,0.969,152.0,0,4.0
+C10757,2026-02-25,11,New Platform,Rewards Redemption,240.0,7,0,0.919,216.0,0,4.0
+C10758,2026-02-25,13,Legacy IVR,Rewards Redemption,411.0,9,3,0.904,252.0,0,4.0
+C10759,2026-02-25,17,Legacy IVR,Rewards Redemption,317.0,10,0,0.796,400.0,0,5.0
+C10760,2026-02-25,17,New Platform,Balance Inquiry,131.0,3,0,0.99,142.0,0,4.0
+C10761,2026-02-25,18,New Platform,Make a Payment,313.0,7,1,0.754,172.0,1,3.0
+C10762,2026-02-25,19,Legacy IVR,Balance Inquiry,238.0,6,0,0.674,136.0,1,3.0
+C10763,2026-02-25,20,Legacy IVR,Make a Payment,277.0,9,1,0.743,236.0,0,4.0
+C10764,2026-02-25,21,New Platform,Recent Transactions,280.0,11,1,0.827,114.0,0,5.0
+C10765,2026-02-26,6,New Platform,Rewards Redemption,468.0,12,3,0.838,179.0,0,3.0
+C10766,2026-02-26,8,New Platform,Recent Transactions,186.0,6,1,0.887,263.0,0,4.0
+C10767,2026-02-26,8,New Platform,Rewards Redemption,241.0,10,0,0.921,124.0,0,4.0
+C10768,2026-02-26,9,Legacy IVR,Rewards Redemption,375.0,7,0,0.942,153.0,0,5.0
+C10769,2026-02-26,11,Legacy IVR,Balance Inquiry,189.0,5,0,0.903,153.0,0,5.0
+C10770,2026-02-26,11,New Platform,Balance Inquiry,132.0,7,1,0.919,118.0,0,5.0
+C10771,2026-02-26,13,Legacy IVR,Balance Inquiry,259.0,4,1,0.889,199.0,1,3.0
+C10772,2026-02-26,14,New Platform,Recent Transactions,153.0,5,0,0.893,154.0,0,4.0
+C10773,2026-02-26,14,New Platform,Recent Transactions,249.0,7,0,0.881,147.0,1,3.0
+C10774,2026-02-26,17,New Platform,Cancel a Payment,210.0,3,0,0.8,336.0,0,5.0
+C10776,2026-02-26,18,Legacy IVR,Make a Payment,219.0,4,1,0.888,269.0,0,5.0
+C10777,2026-02-26,19,New Platform,Recent Transactions,205.0,9,1,0.72,269.0,0,5.0
+C10778,2026-02-26,20,New Platform,Cancel a Payment,212.0,7,0,0.805,163.0,0,5.0
+C10779,2026-02-27,6,New Platform,Cancel a Payment,262.0,10,1,0.803,139.0,0,3.0
+C10780,2026-02-27,8,New Platform,Recent Transactions,162.0,5,1,0.895,355.0,0,4.0
+C10782,2026-02-27,12,Legacy IVR,Make a Payment,312.0,8,0,0.778,270.0,0,5.0
+C10783,2026-02-27,13,New Platform,Recent Transactions,195.0,4,0,0.85,306.0,0,5.0
+C10784,2026-02-27,14,New Platform,Recent Transactions,175.0,8,0,0.893,193.0,0,4.0
+C10785,2026-02-27,18,New Platform,Recent Transactions,212.0,6,2,0.938,122.0,0,3.0
+C10786,2026-02-27,18,Legacy IVR,Recent Transactions,239.0,6,3,0.768,290.0,0,4.0
+C10787,2026-02-27,18,New Platform,Make a Payment,250.0,8,0,0.936,214.0,0,4.0
+C10788,2026-02-27,18,New Platform,Recent Transactions,268.0,9,2,0.973,227.0,0,4.0
+C10789,2026-02-27,18,Legacy IVR,Balance Inquiry,301.0,5,1,0.604,149.0,1,3.0
+C10790,2026-02-27,19,Legacy IVR,Recent Transactions,255.0,6,1,0.838,264.0,0,4.0
+C10791,2026-02-27,20,Legacy IVR,Make a Payment,275.0,8,1,0.732,241.0,0,4.0
+C10792,2026-02-27,20,Legacy IVR,Make a Payment,301.0,8,1,0.857,252.0,0,4.0
+C10793,2026-02-27,21,New Platform,Make a Payment,168.0,7,0,0.944,98.0,0,5.0
+C10794,2026-02-27,22,Legacy IVR,Cancel a Payment,350.0,8,0,0.785,282.0,0,3.0
+C10795,2026-02-28,9,Legacy IVR,Recent Transactions,287.0,9,4,0.87,166.0,0,3.0
+C10796,2026-02-28,9,New Platform,Recent Transactions,290.0,7,1,0.655,779.0,0,4.0
+C10797,2026-02-28,13,Legacy IVR,Make a Payment,300.0,9,1,0.82,388.0,0,5.0
+C10798,2026-02-28,14,New Platform,Recent Transactions,155.0,7,0,0.919,182.0,0,5.0
+C10799,2026-02-28,14,New Platform,Rewards Redemption,330.0,8,0,0.905,158.0,0,5.0
+C10800,2026-02-28,15,New Platform,Recent Transactions,250.0,5,0,0.968,215.0,0,5.0
+C10801,2026-02-28,17,Legacy IVR,Make a Payment,395.0,11,2,0.821,301.0,0,4.0
+C10802,2026-02-28,17,Legacy IVR,Balance Inquiry,125.0,3,0,0.778,275.0,0,4.0
+C10803,2026-02-28,18,Legacy IVR,Cancel a Payment,256.0,9,1,0.84,243.0,0,3.0
+C10804,2026-02-28,19,New Platform,Balance Inquiry,104.0,3,0,0.834,181.0,0,4.0
+C10805,2026-02-28,20,Legacy IVR,Rewards Redemption,282.0,8,1,0.845,266.0,0,5.0
+C10806,2026-02-28,22,New Platform,Make a Payment,272.0,12,0,0.876,180.0,0,4.0
+C10807,2026-02-28,22,New Platform,Make a Payment,228.0,4,0,0.896,99.0,0,4.0
+C10808,2026-03-01,6,New Platform,Make a Payment,269.0,6,0,0.788,148.0,0,3.0
+C10809,2026-03-01,7,New Platform,Balance Inquiry,122.0,6,0,0.872,175.0,0,5.0
+C10810,2026-03-01,7,New Platform,Balance Inquiry,149.0,8,1,0.919,271.0,0,3.0
+C10811,2026-03-01,8,New Platform,Make a Payment,334.0,8,2,0.762,296.0,0,4.0
+C10812,2026-03-01,10,New Platform,Rewards Redemption,304.0,5,0,0.939,297.0,0,4.0
+C10813,2026-03-01,10,New Platform,Recent Transactions,150.0,5,0,0.862,184.0,0,4.0
+C10814,2026-03-01,10,Legacy IVR,Make a Payment,304.0,6,1,0.848,172.0,0,5.0
+C10816,2026-03-01,13,New Platform,Balance Inquiry,131.0,5,0,0.908,255.0,0,5.0
+C10817,2026-03-01,13,New Platform,Recent Transactions,197.0,6,1,0.897,191.0,0,4.0
+C10818,2026-03-01,16,Legacy IVR,Cancel a Payment,320.0,8,2,0.761,166.0,0,3.0
+C10819,2026-03-01,18,New Platform,Recent Transactions,313.0,8,0,0.87,155.0,1,5.0
+C10820,2026-03-01,18,Legacy IVR,Make a Payment,286.0,9,0,0.716,306.0,0,3.0
+C10821,2026-03-01,20,Legacy IVR,Balance Inquiry,161.0,4,1,0.735,258.0,0,2.0
+C10822,2026-03-01,21,New Platform,Recent Transactions,248.0,4,0,0.838,134.0,0,4.0
+C10823,2026-03-01,22,Legacy IVR,Recent Transactions,235.0,7,1,0.685,242.0,0,3.0
+C10824,2026-03-01,22,Legacy IVR,Balance Inquiry,112.0,3,0,0.916,197.0,0,5.0
+C10825,2026-03-02,8,New Platform,Recent Transactions,131.0,5,0,0.986,152.0,0,3.0
+C10826,2026-03-02,14,New Platform,Cancel a Payment,276.0,5,0,0.909,168.0,0,4.0
+C10827,2026-03-02,15,New Platform,Rewards Redemption,286.0,9,1,0.879,193.0,0,4.0
+C10829,2026-03-02,16,New Platform,Balance Inquiry,120.0,7,0,0.923,208.0,0,4.0
+C10830,2026-03-02,17,New Platform,Recent Transactions,152.0,5,0,0.912,196.0,0,5.0
+C10831,2026-03-02,18,New Platform,Recent Transactions,142.0,5,0,0.92,112.0,0,5.0
+C10832,2026-03-02,19,Legacy IVR,Balance Inquiry,144.0,4,0,0.829,238.0,0,4.0
+C10833,2026-03-02,19,New Platform,Recent Transactions,183.0,3,0,0.888,237.0,0,5.0
+C10834,2026-03-02,19,New Platform,Balance Inquiry,204.0,7,0,0.906,779.0,0,3.0
+C10835,2026-03-02,21,New Platform,Cancel a Payment,335.0,9,2,0.758,152.0,0,3.0
+C10836,2026-03-02,22,New Platform,Make a Payment,246.0,9,1,0.818,328.0,0,4.0
+C10837,2026-03-03,8,New Platform,Rewards Redemption,302.0,9,1,0.911,201.0,0,4.0
+C10838,2026-03-03,10,New Platform,Make a Payment,189.0,8,0,0.938,159.0,0,4.0
+C10839,2026-03-03,12,Legacy IVR,Balance Inquiry,138.0,6,1,0.862,232.0,0,4.0
+C10840,2026-03-03,13,Legacy IVR,Balance Inquiry,163.0,7,0,0.708,169.0,0,5.0
+C10841,2026-03-03,16,Legacy IVR,Recent Transactions,160.0,5,1,0.768,169.0,0,4.0
+C10842,2026-03-03,17,Legacy IVR,Balance Inquiry,171.0,5,2,0.915,350.0,0,4.0
+C10843,2026-03-03,20,New Platform,Balance Inquiry,238.0,7,1,0.947,99.0,1,4.0
+C10844,2026-03-03,21,New Platform,Rewards Redemption,337.0,11,0,0.845,779.0,0,4.0
+C10845,2026-03-03,22,New Platform,Balance Inquiry,153.0,4,0,0.917,199.0,0,3.0
+C10846,2026-03-04,6,New Platform,Balance Inquiry,113.0,4,0,0.862,285.0,0,5.0
+C10847,2026-03-04,8,New Platform,Make a Payment,239.0,6,2,0.938,285.0,0,3.0
+C10848,2026-03-04,11,Legacy IVR,Make a Payment,380.0,6,2,0.772,345.0,0,4.0
+C10849,2026-03-04,12,New Platform,Cancel a Payment,241.0,6,0,0.895,175.0,0,4.0
+C10850,2026-03-04,18,New Platform,Make a Payment,181.0,4,0,0.895,272.0,0,5.0
+C10851,2026-03-04,18,Legacy IVR,Recent Transactions,206.0,6,2,0.822,272.0,0,3.0
+C10852,2026-03-04,20,New Platform,Make a Payment,208.0,8,1,0.879,160.0,0,4.0
+C10853,2026-03-04,22,New Platform,Balance Inquiry,136.0,5,1,0.921,262.0,0,4.0
+C10854,2026-03-05,6,Legacy IVR,Make a Payment,408.0,11,2,0.596,297.0,0,4.0
+C10855,2026-03-05,6,Legacy IVR,Cancel a Payment,256.0,5,0,0.844,144.0,0,4.0
+C10856,2026-03-05,6,Legacy IVR,Make a Payment,278.0,9,1,0.931,232.0,0,4.0
+C10857,2026-03-05,9,New Platform,Make a Payment,170.0,4,0,0.918,192.0,0,3.0
+C10858,2026-03-05,10,New Platform,Make a Payment,270.0,7,0,0.804,192.0,1,3.0
+C10859,2026-03-05,10,Legacy IVR,Make a Payment,332.0,10,2,0.792,143.0,0,2.0
+C10860,2026-03-05,12,New Platform,Recent Transactions,287.0,10,1,0.882,175.0,0,3.0
+C10861,2026-03-05,16,Legacy IVR,Cancel a Payment,245.0,5,0,0.86,196.0,0,4.0
+C10862,2026-03-05,16,Legacy IVR,Rewards Redemption,395.0,6,0,0.702,215.0,0,4.0
+C10863,2026-03-05,18,New Platform,Balance Inquiry,221.0,4,1,0.894,92.0,1,4.0
+C10864,2026-03-05,21,New Platform,Rewards Redemption,256.0,5,2,0.882,193.0,0,4.0
+C10865,2026-03-05,22,New Platform,Make a Payment,188.0,5,0,0.905,196.0,0,5.0
+C10866,2026-03-06,6,Legacy IVR,Cancel a Payment,308.0,7,0,0.847,107.0,0,5.0
+C10867,2026-03-06,7,New Platform,Unknown,238.0,5,1,0.843,216.0,0,4.0
+C10868,2026-03-06,7,New Platform,Balance Inquiry,248.0,6,0,0.838,249.0,1,3.0
+C10869,2026-03-06,7,New Platform,Make a Payment,273.0,6,0,0.844,309.0,0,5.0
+C10870,2026-03-06,9,Legacy IVR,Rewards Redemption,355.0,10,1,0.957,346.0,0,4.0
+C10871,2026-03-06,10,New Platform,Make a Payment,216.0,9,0,0.936,229.0,0,4.0
+C10872,2026-03-06,11,New Platform,Balance Inquiry,94.0,3,0,0.886,173.0,0,4.0
+C10873,2026-03-06,12,New Platform,Recent Transactions,262.0,6,0,0.924,201.0,1,3.0
+C10874,2026-03-06,14,Legacy IVR,Cancel a Payment,262.0,6,0,0.781,219.0,0,4.0
+C10875,2026-03-06,14,New Platform,Rewards Redemption,292.0,8,1,0.845,148.0,0,4.0
+C10876,2026-03-06,16,New Platform,Recent Transactions,169.0,7,0,0.879,324.0,0,5.0
+C10877,2026-03-06,17,New Platform,Recent Transactions,174.0,7,0,0.894,147.0,0,5.0
+C10878,2026-03-07,7,New Platform,Recent Transactions,226.0,7,0,0.905,206.0,0,4.0
+C10879,2026-03-07,8,New Platform,Balance Inquiry,184.0,9,3,0.838,170.0,0,3.0
+C10880,2026-03-07,8,New Platform,Cancel a Payment,249.0,4,0,0.876,169.0,0,5.0
+C10881,2026-03-07,9,Legacy IVR,Make a Payment,359.0,6,0,0.638,237.0,1,4.0
+C10882,2026-03-07,11,New Platform,Recent Transactions,189.0,7,1,0.894,151.0,0,3.0
+C10883,2026-03-07,11,New Platform,Cancel a Payment,226.0,6,0,0.848,193.0,0,5.0
+C10884,2026-03-07,14,New Platform,Make a Payment,210.0,7,0,0.893,346.0,0,4.0
+C10885,2026-03-07,15,New Platform,Make a Payment,150.0,5,0,0.74,346.0,0,5.0
+C10886,2026-03-07,16,New Platform,Cancel a Payment,274.0,10,1,0.837,189.0,0,5.0
+C10887,2026-03-07,16,Legacy IVR,Recent Transactions,205.0,6,2,0.834,198.0,0,3.0
+C10888,2026-03-07,17,Legacy IVR,Make a Payment,300.0,5,0,0.626,154.0,0,5.0
+C10889,2026-03-07,20,Legacy IVR,Balance Inquiry,141.0,5,0,0.641,194.0,0,4.0
+C10890,2026-03-07,20,New Platform,Cancel a Payment,311.0,9,3,0.944,144.0,0,4.0
+C10891,2026-03-07,21,New Platform,Rewards Redemption,243.0,8,0,0.837,218.0,0,5.0
+C10892,2026-03-08,6,New Platform,Make a Payment,243.0,5,0,0.73,95.0,0,3.0
+C10893,2026-03-08,11,Legacy IVR,Rewards Redemption,359.0,11,2,0.908,197.0,0,4.0
+C10894,2026-03-08,14,New Platform,Make a Payment,168.0,5,0,0.852,311.0,0,5.0
+C10895,2026-03-08,15,Legacy IVR,Recent Transactions,236.0,6,0,0.838,181.0,0,4.0
+C10896,2026-03-08,15,New Platform,Make a Payment,254.0,7,1,0.872,166.0,0,3.0
+C10897,2026-03-08,16,New Platform,Make a Payment,226.0,5,1,0.857,237.0,0,5.0
+C10898,2026-03-08,16,New Platform,Recent Transactions,190.0,6,2,0.952,178.0,0,4.0
+C10899,2026-03-08,16,New Platform,Make a Payment,218.0,7,0,0.902,226.0,0,5.0
+C10900,2026-03-08,17,New Platform,Make a Payment,275.0,5,1,0.959,285.0,0,4.0
+C10901,2026-03-08,20,New Platform,Balance Inquiry,143.0,5,1,0.889,216.0,0,4.0
+C10902,2026-03-08,21,New Platform,Balance Inquiry,136.0,5,1,0.934,262.0,0,4.0
+C10903,2026-03-09,6,New Platform,Balance Inquiry,133.0,6,0,0.83,277.0,0,5.0
+C10904,2026-03-09,6,New Platform,Rewards Redemption,401.0,12,1,0.969,128.0,1,3.0
+C10905,2026-03-09,6,New Platform,Make a Payment,226.0,8,1,0.936,170.0,0,4.0
+C10906,2026-03-09,7,New Platform,Recent Transactions,142.0,4,0,0.908,247.0,0,4.0
+C10907,2026-03-09,8,Legacy IVR,Balance Inquiry,246.0,7,2,0.838,268.0,0,3.0
+C10908,2026-03-09,9,Legacy IVR,Rewards Redemption,314.0,5,1,0.753,211.0,0,5.0
+C10909,2026-03-09,10,Legacy IVR,Recent Transactions,188.0,6,1,0.688,259.0,0,4.0
+C10910,2026-03-09,11,New Platform,Rewards Redemption,231.0,6,0,0.883,224.0,0,4.0
+C10911,2026-03-09,12,New Platform,Balance Inquiry,131.0,4,0,0.946,166.0,0,4.0
+C10912,2026-03-09,14,New Platform,Make a Payment,226.0,7,0,0.838,260.0,0,4.0
+C10913,2026-03-09,18,New Platform,Balance Inquiry,102.0,4,0,0.88,193.0,0,5.0
+C10914,2026-03-09,18,Legacy IVR,Make a Payment,218.0,5,1,0.821,233.0,0,5.0
+C10915,2026-03-09,20,New Platform,Rewards Redemption,432.0,11,1,0.98,134.0,1,3.0
+C10916,2026-03-09,20,New Platform,Rewards Redemption,228.0,12,1,0.838,144.0,0,5.0
+C10917,2026-03-09,22,Legacy IVR,Balance Inquiry,152.0,6,1,0.853,205.0,0,3.0
+C10918,2026-03-09,22,New Platform,Rewards Redemption,257.0,5,0,0.712,154.0,0,5.0
+C10919,2026-03-10,6,New Platform,Make a Payment,255.0,11,0,0.99,143.0,0,4.0
+C10920,2026-03-10,7,Legacy IVR,Recent Transactions,272.0,7,2,0.827,271.0,0,3.0
+C10921,2026-03-10,7,New Platform,Recent Transactions,148.0,4,0,0.849,181.0,0,5.0
+C10922,2026-03-10,9,New Platform,Make a Payment,317.0,5,0,0.709,229.0,0,4.0
+C10923,2026-03-10,10,New Platform,Recent Transactions,296.0,7,0,0.915,174.0,1,3.0
+C10924,2026-03-10,15,Legacy IVR,Balance Inquiry,187.0,4,1,0.813,236.0,0,5.0
+C10925,2026-03-10,17,Legacy IVR,Recent Transactions,217.0,9,0,0.838,306.0,0,4.0
+C10926,2026-03-10,18,New Platform,Rewards Redemption,214.0,6,0,0.977,217.0,0,4.0
+C10927,2026-03-10,18,Legacy IVR,Cancel a Payment,482.0,7,2,0.607,152.0,1,4.0
+C10928,2026-03-10,19,New Platform,Make a Payment,290.0,7,3,0.967,173.0,0,3.0
+C10929,2026-03-10,19,New Platform,Recent Transactions,243.0,3,0,0.885,176.0,0,4.0
+C10930,2026-03-10,19,New Platform,Make a Payment,248.0,7,0,0.85,144.0,0,4.0
+C10931,2026-03-10,20,New Platform,Recent Transactions,201.0,8,0,0.875,164.0,0,3.0
+C10932,2026-03-10,21,New Platform,Balance Inquiry,123.0,6,0,0.947,134.0,0,4.0
+C10933,2026-03-11,9,Legacy IVR,Make a Payment,196.0,6,0,0.743,206.0,0,4.0
+C10934,2026-03-11,9,Legacy IVR,Balance Inquiry,201.0,8,3,0.698,248.0,0,3.0
+C10935,2026-03-11,9,Legacy IVR,Make a Payment,232.0,5,1,0.76,260.0,0,4.0
+C10936,2026-03-11,10,New Platform,Recent Transactions,166.0,5,0,0.928,199.0,0,4.0
+C10937,2026-03-11,11,Legacy IVR,Recent Transactions,208.0,7,0,0.939,223.0,0,4.0
+C10938,2026-03-11,11,Legacy IVR,Make a Payment,233.0,9,0,0.868,256.0,0,4.0
+C10939,2026-03-11,11,New Platform,Balance Inquiry,136.0,6,1,0.769,120.0,0,4.0
+C10940,2026-03-11,14,New Platform,Make a Payment,139.0,7,0,0.933,146.0,0,4.0
+C10941,2026-03-11,18,Legacy IVR,Recent Transactions,293.0,9,3,0.749,146.0,0,2.0
+C10942,2026-03-11,18,New Platform,Make a Payment,221.0,5,0,0.874,146.0,0,5.0
+C10943,2026-03-11,20,New Platform,Balance Inquiry,94.0,4,0,0.938,171.0,0,4.0
+C10944,2026-03-11,20,New Platform,Balance Inquiry,157.0,3,0,0.684,191.0,0,4.0
+C10945,2026-03-11,20,New Platform,Make a Payment,278.0,9,1,0.866,273.0,0,4.0
+C10946,2026-03-12,6,New Platform,Rewards Redemption,250.0,7,0,0.941,162.0,0,3.0
+C10947,2026-03-12,8,New Platform,Recent Transactions,243.0,9,2,0.769,210.0,0,4.0
+C10948,2026-03-12,8,New Platform,Make a Payment,233.0,9,1,0.812,200.0,0,4.0
+C10949,2026-03-12,8,Legacy IVR,Make a Payment,253.0,6,2,0.754,258.0,0,3.0
+C10950,2026-03-12,9,New Platform,Make a Payment,256.0,9,2,0.877,218.0,0,4.0
+C10951,2026-03-12,13,New Platform,Make a Payment,183.0,4,0,0.915,197.0,0,4.0
+C10952,2026-03-12,14,New Platform,Make a Payment,183.0,6,0,0.965,153.0,0,5.0
+C10953,2026-03-12,19,New Platform,Cancel a Payment,288.0,9,1,0.817,237.0,0,4.0
+C10954,2026-03-13,9,Legacy IVR,Balance Inquiry,103.0,4,0,0.845,165.0,0,3.0
+C10955,2026-03-13,9,Legacy IVR,Recent Transactions,362.0,6,3,0.711,262.0,1,2.0
+C10956,2026-03-13,9,New Platform,Unknown,216.0,7,0,0.838,195.0,0,3.0
+C10957,2026-03-13,10,New Platform,Balance Inquiry,102.0,3,0,0.969,249.0,0,4.0
+C10958,2026-03-13,16,New Platform,Balance Inquiry,132.0,3,0,0.808,311.0,0,4.0
+C10959,2026-03-13,16,New Platform,Recent Transactions,175.0,4,0,0.838,161.0,0,4.0
+C10960,2026-03-13,17,Legacy IVR,Cancel a Payment,326.0,10,1,0.858,165.0,0,4.0
+C10961,2026-03-13,19,Legacy IVR,Cancel a Payment,445.0,6,2,0.851,268.0,0,4.0
+C10962,2026-03-13,19,New Platform,Unknown,199.0,5,1,0.854,155.0,0,3.0
+C10963,2026-03-13,21,New Platform,Make a Payment,269.0,8,1,0.949,123.0,0,4.0
+C10964,2026-03-13,22,New Platform,Recent Transactions,199.0,6,1,0.816,228.0,0,4.0
+C10965,2026-03-14,6,New Platform,Cancel a Payment,243.0,7,0,0.925,220.0,0,3.0
+C10966,2026-03-14,8,Legacy IVR,Recent Transactions,248.0,11,2,0.898,147.0,0,4.0
+C10967,2026-03-14,8,New Platform,Recent Transactions,143.0,6,0,0.808,197.0,0,4.0
+C10968,2026-03-14,15,Legacy IVR,Balance Inquiry,140.0,6,1,0.89,286.0,0,4.0
+C10969,2026-03-14,15,New Platform,Recent Transactions,145.0,7,0,0.726,232.0,0,4.0
+C10970,2026-03-14,16,Legacy IVR,Cancel a Payment,360.0,10,0,0.867,200.0,0,4.0
+C10971,2026-03-14,16,New Platform,Balance Inquiry,127.0,4,0,0.898,331.0,0,4.0
+C10972,2026-03-14,18,Legacy IVR,Make a Payment,461.0,8,3,0.688,331.0,1,1.0
+C10973,2026-03-14,18,Legacy IVR,Make a Payment,268.0,8,1,0.784,191.0,0,4.0
+C10974,2026-03-14,18,Legacy IVR,Recent Transactions,427.0,7,3,0.749,173.0,1,3.0
+C10975,2026-03-14,20,Legacy IVR,Make a Payment,429.0,15,4,0.778,378.0,0,4.0
+C10976,2026-03-14,21,New Platform,Make a Payment,173.0,8,0,0.915,252.0,0,4.0
+C10977,2026-03-14,21,New Platform,Recent Transactions,246.0,3,0,0.63,252.0,1,3.0
+C10978,2026-03-14,21,New Platform,Make a Payment,248.0,7,0,0.852,124.0,0,4.0
+C10979,2026-03-14,22,New Platform,Balance Inquiry,139.0,4,1,0.869,127.0,0,4.0
+C10980,2026-03-15,6,New Platform,Cancel a Payment,301.0,7,0,0.903,146.0,0,4.0
+C10981,2026-03-15,7,New Platform,Rewards Redemption,451.0,9,0,0.944,145.0,1,4.0
+C10982,2026-03-15,8,New Platform,Recent Transactions,183.0,7,0,0.962,145.0,0,4.0
+C10983,2026-03-15,8,New Platform,Balance Inquiry,93.0,4,1,0.867,183.0,0,4.0
+C10984,2026-03-15,9,Legacy IVR,Cancel a Payment,257.0,6,1,0.771,126.0,0,5.0
+C10985,2026-03-15,12,Legacy IVR,Balance Inquiry,174.0,5,1,0.733,186.0,0,4.0
+C10986,2026-03-15,13,New Platform,Cancel a Payment,334.0,11,1,0.906,233.0,1,3.0
+C10987,2026-03-15,14,New Platform,Make a Payment,185.0,8,0,0.855,203.0,0,5.0
+C10988,2026-03-15,14,New Platform,Make a Payment,230.0,8,1,0.881,189.0,0,4.0
+C10989,2026-03-15,18,New Platform,Recent Transactions,193.0,8,0,0.871,210.0,0,4.0
+C10990,2026-03-15,21,New Platform,Unknown,222.0,4,0,0.958,137.0,0,4.0
+C10991,2026-03-15,22,Legacy IVR,Make a Payment,298.0,8,0,0.801,185.0,0,4.0
+C10992,2026-03-15,22,New Platform,Recent Transactions,120.0,4,0,0.898,211.0,0,4.0
+C10993,2026-03-16,6,New Platform,Make a Payment,386.0,8,1,0.951,245.0,1,3.0
+C10994,2026-03-16,8,New Platform,Make a Payment,317.0,6,1,0.918,779.0,0,4.0
+C10995,2026-03-16,9,New Platform,Balance Inquiry,141.0,6,1,0.905,210.0,0,5.0
+C10996,2026-03-16,9,New Platform,Recent Transactions,141.0,6,0,0.759,241.0,0,5.0
+C10997,2026-03-16,10,New Platform,Cancel a Payment,168.0,7,0,0.763,158.0,0,5.0
+C10999,2026-03-16,11,New Platform,Make a Payment,223.0,5,0,0.916,291.0,0,5.0
+C11000,2026-03-16,11,New Platform,Balance Inquiry,130.0,5,0,0.862,220.0,0,5.0
+C11001,2026-03-16,13,New Platform,Balance Inquiry,91.0,3,0,0.89,169.0,0,4.0
+C11002,2026-03-16,13,Legacy IVR,Rewards Redemption,352.0,4,0,0.768,197.0,0,5.0
+C11003,2026-03-16,15,New Platform,Make a Payment,290.0,6,1,0.93,289.0,0,3.0
+C11004,2026-03-16,16,New Platform,Rewards Redemption,251.0,8,0,0.838,209.0,0,4.0
+C11005,2026-03-16,16,New Platform,Cancel a Payment,262.0,7,1,0.709,305.0,0,4.0
+C11006,2026-03-16,17,New Platform,Recent Transactions,215.0,5,0,0.915,219.0,0,4.0
+C11007,2026-03-16,18,New Platform,Cancel a Payment,265.0,7,1,0.98,161.0,0,4.0
+C11008,2026-03-16,18,New Platform,Recent Transactions,198.0,10,0,0.871,196.0,0,5.0
+C11009,2026-03-16,20,Legacy IVR,Make a Payment,412.0,11,3,0.868,213.0,1,3.0
+C11010,2026-03-16,21,Legacy IVR,Rewards Redemption,292.0,5,0,0.777,213.0,0,4.0
+C11011,2026-03-16,22,New Platform,Make a Payment,311.0,7,1,0.917,255.0,1,3.0
+C11012,2026-03-17,6,New Platform,Make a Payment,206.0,5,1,0.874,147.0,0,4.0
+C11013,2026-03-17,8,New Platform,Cancel a Payment,350.0,10,1,0.9,227.0,0,4.0
+C11014,2026-03-17,13,New Platform,Recent Transactions,210.0,7,2,0.687,277.0,0,4.0
+C11015,2026-03-17,13,New Platform,Recent Transactions,172.0,6,0,0.891,272.0,0,3.0
+C11016,2026-03-17,14,Legacy IVR,Make a Payment,271.0,10,2,0.762,229.0,0,3.0
+C11017,2026-03-17,15,Legacy IVR,Make a Payment,247.0,9,2,0.747,160.0,0,4.0
+C11018,2026-03-17,15,Legacy IVR,Recent Transactions,198.0,5,0,0.729,247.0,0,5.0
+C11019,2026-03-17,18,New Platform,Make a Payment,259.0,4,0,0.808,140.0,0,4.0
+C11020,2026-03-17,18,New Platform,Make a Payment,258.0,7,0,0.896,189.0,0,4.0
+C11021,2026-03-17,20,New Platform,Make a Payment,237.0,8,1,0.836,340.0,0,4.0
+C11022,2026-03-17,21,New Platform,Recent Transactions,209.0,6,2,0.95,200.0,0,4.0
+C11023,2026-03-17,21,New Platform,Recent Transactions,224.0,8,0,0.793,276.0,0,5.0
+C11024,2026-03-17,22,Legacy IVR,Make a Payment,314.0,7,1,0.809,186.0,0,3.0
+C11025,2026-03-18,7,New Platform,Make a Payment,202.0,9,1,0.895,240.0,0,3.0
+C11026,2026-03-18,9,New Platform,Make a Payment,182.0,5,0,0.888,278.0,0,5.0
+C11027,2026-03-18,9,New Platform,Make a Payment,356.0,10,1,0.906,133.0,0,4.0
+C11028,2026-03-18,11,New Platform,Make a Payment,237.0,6,0,0.838,159.0,0,4.0
+C11029,2026-03-18,12,New Platform,Recent Transactions,200.0,6,1,0.829,159.0,0,4.0
+C11030,2026-03-18,12,New Platform,Balance Inquiry,177.0,7,1,0.668,166.0,0,4.0
+C11031,2026-03-18,12,New Platform,Make a Payment,160.0,5,1,0.888,292.0,0,4.0
+C11032,2026-03-18,12,New Platform,Recent Transactions,172.0,6,1,0.83,120.0,0,3.0
+C11033,2026-03-18,12,Legacy IVR,Cancel a Payment,391.0,11,3,0.951,234.0,0,4.0
+C11034,2026-03-18,14,New Platform,Recent Transactions,153.0,4,0,0.903,151.0,0,5.0
+C11035,2026-03-18,16,New Platform,Recent Transactions,229.0,5,0,0.94,160.0,1,3.0
+C11036,2026-03-18,16,Legacy IVR,Cancel a Payment,237.0,3,0,0.646,262.0,0,4.0
+C11037,2026-03-18,16,New Platform,Rewards Redemption,248.0,5,0,0.888,201.0,0,4.0
+C11038,2026-03-18,18,Legacy IVR,Recent Transactions,326.0,8,1,0.904,424.0,0,4.0
+C11039,2026-03-18,20,New Platform,Make a Payment,227.0,8,1,0.847,192.0,0,4.0
+C11040,2026-03-18,21,Legacy IVR,Recent Transactions,305.0,8,3,0.838,211.0,0,4.0
+C11041,2026-03-18,21,New Platform,Rewards Redemption,177.0,7,0,0.86,293.0,0,4.0
+C11042,2026-03-19,7,Legacy IVR,Make a Payment,330.0,5,2,0.668,191.0,0,3.0
+C11043,2026-03-19,7,New Platform,Make a Payment,346.0,9,2,0.794,220.0,0,4.0
+C11044,2026-03-19,10,Legacy IVR,Make a Payment,275.0,8,2,0.842,281.0,0,5.0
+C11045,2026-03-19,10,New Platform,Balance Inquiry,94.0,4,0,0.927,106.0,0,3.0
+C11046,2026-03-19,10,New Platform,Cancel a Payment,161.0,7,0,0.911,138.0,0,4.0
+C11047,2026-03-19,11,Legacy IVR,Cancel a Payment,305.0,13,2,0.912,203.0,0,4.0
+C11048,2026-03-19,13,New Platform,Balance Inquiry,121.0,3,0,0.717,167.0,0,4.0
+C11049,2026-03-19,15,New Platform,Balance Inquiry,270.0,8,1,0.887,160.0,1,3.0
+C11050,2026-03-19,16,Legacy IVR,Make a Payment,215.0,4,1,0.69,263.0,0,4.0
+C11051,2026-03-19,19,New Platform,Cancel a Payment,324.0,11,3,0.913,201.0,0,3.0
+C11052,2026-03-19,21,New Platform,Recent Transactions,211.0,6,2,0.901,222.0,0,2.0
+C11053,2026-03-19,21,New Platform,Make a Payment,220.0,7,0,0.818,262.0,0,4.0
+C11054,2026-03-19,22,New Platform,Cancel a Payment,299.0,9,2,0.968,109.0,0,4.0
+C11055,2026-03-19,22,New Platform,Rewards Redemption,240.0,5,1,0.897,220.0,0,4.0
+C11056,2026-03-19,22,New Platform,Cancel a Payment,225.0,7,0,0.846,215.0,0,4.0
+C11057,2026-03-20,7,New Platform,Cancel a Payment,320.0,10,1,0.9,203.0,0,4.0
+C11058,2026-03-20,8,New Platform,Recent Transactions,189.0,6,0,0.876,296.0,0,4.0
+C11059,2026-03-20,10,New Platform,Recent Transactions,148.0,8,0,0.906,170.0,0,4.0
+C11060,2026-03-20,11,New Platform,Make a Payment,304.0,7,0,0.879,225.0,0,4.0
+C11061,2026-03-20,11,Legacy IVR,Rewards Redemption,237.0,7,0,0.848,331.0,0,5.0
+C11062,2026-03-20,16,New Platform,Cancel a Payment,236.0,7,0,0.9,211.0,0,3.0
+C11063,2026-03-20,18,Legacy IVR,Rewards Redemption,234.0,5,0,0.775,369.0,0,4.0
+C11064,2026-03-20,19,New Platform,Cancel a Payment,294.0,6,0,0.847,135.0,0,4.0
+C11065,2026-03-20,20,New Platform,Make a Payment,360.0,7,1,0.838,335.0,1,2.0
+C11066,2026-03-20,20,New Platform,Recent Transactions,190.0,4,0,0.779,238.0,0,4.0
+C11067,2026-03-20,20,New Platform,Balance Inquiry,122.0,5,1,0.879,212.0,0,5.0
+C11068,2026-03-20,21,New Platform,Rewards Redemption,284.0,6,0,0.826,173.0,0,5.0
+C11069,2026-03-20,21,New Platform,Recent Transactions,126.0,5,0,0.89,136.0,0,4.0
+C11070,2026-03-20,22,New Platform,Recent Transactions,151.0,7,0,0.844,233.0,0,5.0
+C11071,2026-03-21,6,New Platform,Recent Transactions,236.0,6,1,0.885,215.0,0,3.0
+C11072,2026-03-21,8,New Platform,Rewards Redemption,311.0,4,0,0.786,114.0,0,4.0
+C11073,2026-03-21,8,Legacy IVR,Rewards Redemption,445.0,10,4,0.868,207.0,0,3.0
+C11074,2026-03-21,9,New Platform,Balance Inquiry,225.0,5,1,0.905,207.0,1,2.0
+C11075,2026-03-21,9,New Platform,Recent Transactions,176.0,4,0,0.842,202.0,0,5.0
+C11076,2026-03-21,12,New Platform,Make a Payment,254.0,8,0,0.917,202.0,0,5.0
+C11077,2026-03-21,13,New Platform,Make a Payment,317.0,10,2,0.827,257.0,0,3.0
+C11078,2026-03-21,15,New Platform,Make a Payment,204.0,6,0,0.756,237.0,0,3.0
+C11079,2026-03-21,22,New Platform,Make a Payment,266.0,5,0,0.951,194.0,0,3.0
+C11080,2026-03-21,22,Legacy IVR,Make a Payment,427.0,7,1,0.729,194.0,0,5.0
+C11081,2026-03-22,12,Legacy IVR,Cancel a Payment,370.0,11,4,0.791,215.0,0,3.0
+C11082,2026-03-22,13,New Platform,Recent Transactions,170.0,5,0,0.873,223.0,0,4.0
+C11083,2026-03-22,21,New Platform,Cancel a Payment,226.0,8,0,0.742,241.0,0,4.0
+C11084,2026-03-23,7,New Platform,Make a Payment,239.0,6,0,0.843,239.0,0,5.0
+C11085,2026-03-23,7,New Platform,Rewards Redemption,345.0,9,2,0.799,150.0,0,4.0
+C11086,2026-03-23,8,Legacy IVR,Make a Payment,266.0,8,0,0.704,295.0,0,4.0
+C11087,2026-03-23,8,New Platform,Cancel a Payment,260.0,10,1,0.958,220.0,0,4.0
+C11088,2026-03-23,9,New Platform,Cancel a Payment,296.0,8,1,0.962,220.0,0,4.0
+C11089,2026-03-23,11,Legacy IVR,Recent Transactions,169.0,4,0,0.837,329.0,0,4.0
+C11091,2026-03-23,11,New Platform,Balance Inquiry,161.0,6,2,0.948,275.0,0,3.0
+C11092,2026-03-23,13,New Platform,Recent Transactions,187.0,8,2,0.899,163.0,0,4.0
+C11093,2026-03-23,14,New Platform,Balance Inquiry,144.0,5,0,0.881,256.0,0,4.0
+C11094,2026-03-23,15,Legacy IVR,Balance Inquiry,134.0,3,0,0.824,256.0,0,3.0
+C11095,2026-03-23,15,New Platform,Rewards Redemption,318.0,7,0,0.952,137.0,0,5.0
+C11096,2026-03-23,16,New Platform,Balance Inquiry,143.0,7,1,0.839,195.0,0,4.0
+C11097,2026-03-23,16,New Platform,Make a Payment,219.0,8,0,0.95,219.0,0,3.0
+C11098,2026-03-23,16,Legacy IVR,Recent Transactions,471.0,11,1,0.876,283.0,1,3.0
+C11099,2026-03-23,20,New Platform,Balance Inquiry,94.0,6,0,0.919,260.0,0,4.0
+C11100,2026-03-23,20,New Platform,Balance Inquiry,130.0,5,1,0.946,200.0,0,4.0
+C11101,2026-03-23,22,New Platform,Make a Payment,221.0,6,1,0.838,222.0,0,4.0
+C11102,2026-03-23,22,New Platform,Cancel a Payment,161.0,6,0,0.898,234.0,0,4.0
+C11103,2026-03-23,22,New Platform,Make a Payment,261.0,5,0,0.938,295.0,0,3.0
+C11104,2026-03-23,22,New Platform,Rewards Redemption,344.0,7,0,0.922,212.0,0,4.0
+C11105,2026-03-24,6,New Platform,Make a Payment,286.0,6,1,0.881,237.0,0,4.0
+C11106,2026-03-24,7,New Platform,Cancel a Payment,233.0,8,0,0.978,97.0,0,4.0
+C11107,2026-03-24,10,New Platform,Recent Transactions,168.0,5,1,0.95,209.0,0,4.0
+C11108,2026-03-24,10,New Platform,Recent Transactions,186.0,5,1,0.632,110.0,0,3.0
+C11109,2026-03-24,12,Legacy IVR,Make a Payment,323.0,8,1,0.745,226.0,0,5.0
+C11110,2026-03-24,12,New Platform,Balance Inquiry,147.0,5,2,0.937,189.0,0,3.0
+C11111,2026-03-24,13,New Platform,Balance Inquiry,134.0,5,1,0.736,157.0,0,4.0
+C11112,2026-03-24,13,New Platform,Make a Payment,174.0,4,0,0.856,193.0,0,5.0
+C11113,2026-03-24,13,New Platform,Rewards Redemption,295.0,8,0,0.733,155.0,0,4.0
+C11114,2026-03-24,15,New Platform,Make a Payment,297.0,7,1,0.933,212.0,0,4.0
+C11115,2026-03-24,15,Legacy IVR,Cancel a Payment,408.0,10,3,0.863,379.0,0,3.0
+C11116,2026-03-24,17,Legacy IVR,Balance Inquiry,148.0,8,0,0.846,175.0,0,4.0
+C11117,2026-03-24,18,New Platform,Recent Transactions,219.0,7,1,0.882,169.0,0,3.0
+C11118,2026-03-24,18,Legacy IVR,Make a Payment,451.0,10,2,0.699,216.0,0,3.0
+C11119,2026-03-24,19,Legacy IVR,Make a Payment,442.0,7,2,0.641,252.0,1,3.0
+C11120,2026-03-24,19,New Platform,Make a Payment,265.0,4,0,0.919,248.0,0,4.0
+C11121,2026-03-24,20,New Platform,Make a Payment,355.0,7,1,0.808,167.0,1,4.0
+C11122,2026-03-25,6,New Platform,Make a Payment,218.0,6,0,0.982,145.0,0,4.0
+C11123,2026-03-25,9,Legacy IVR,Recent Transactions,244.0,3,0,0.769,487.0,0,4.0
+C11124,2026-03-25,9,New Platform,Balance Inquiry,148.0,5,0,0.917,193.0,0,4.0
+C11125,2026-03-25,9,New Platform,Make a Payment,214.0,7,1,0.924,244.0,0,3.0
+C11126,2026-03-25,9,Legacy IVR,Make a Payment,273.0,7,1,0.836,208.0,0,4.0
+C11127,2026-03-25,10,New Platform,Recent Transactions,208.0,7,1,0.782,238.0,0,4.0
+C11128,2026-03-25,10,New Platform,Recent Transactions,213.0,11,1,0.972,231.0,0,4.0
+C11129,2026-03-25,11,New Platform,Make a Payment,292.0,8,0,0.956,266.0,0,4.0
+C11130,2026-03-25,14,New Platform,Make a Payment,202.0,4,1,0.965,187.0,0,3.0
+C11131,2026-03-25,18,Legacy IVR,Recent Transactions,193.0,6,1,0.603,345.0,0,4.0
+C11132,2026-03-25,19,New Platform,Make a Payment,257.0,7,1,0.893,112.0,0,4.0
+C11133,2026-03-25,20,New Platform,Make a Payment,336.0,11,4,0.892,165.0,0,3.0
+C11134,2026-03-25,22,New Platform,Recent Transactions,172.0,6,0,0.919,195.0,0,5.0
+C11135,2026-03-26,8,New Platform,Make a Payment,159.0,3,0,0.954,162.0,0,4.0
+C11136,2026-03-26,8,New Platform,Balance Inquiry,115.0,6,0,0.943,157.0,0,4.0
+C11137,2026-03-26,11,Legacy IVR,Make a Payment,360.0,11,2,0.785,249.0,0,4.0
+C11138,2026-03-26,11,New Platform,Make a Payment,306.0,11,3,0.699,149.0,0,4.0
+C11139,2026-03-26,13,New Platform,Cancel a Payment,250.0,6,1,0.92,216.0,0,5.0
+C11141,2026-03-26,20,New Platform,Rewards Redemption,285.0,7,0,0.827,242.0,0,5.0
+C11142,2026-03-26,21,Legacy IVR,Cancel a Payment,279.0,8,0,0.641,153.0,0,4.0
+C11143,2026-03-27,7,New Platform,Rewards Redemption,265.0,9,0,0.796,241.0,0,5.0
+C11144,2026-03-27,7,Legacy IVR,Cancel a Payment,434.0,11,2,0.655,396.0,0,4.0
+C11145,2026-03-27,11,New Platform,Make a Payment,283.0,9,1,0.852,119.0,0,4.0
+C11146,2026-03-27,13,New Platform,Recent Transactions,261.0,7,1,0.928,213.0,0,4.0
+C11147,2026-03-27,13,New Platform,Recent Transactions,163.0,8,1,0.829,183.0,0,4.0
+C11148,2026-03-27,15,New Platform,Recent Transactions,119.0,7,0,0.963,147.0,0,4.0
+C11149,2026-03-27,18,New Platform,Recent Transactions,233.0,5,1,0.808,294.0,0,4.0
+C11150,2026-03-27,20,New Platform,Rewards Redemption,372.0,9,0,0.858,150.0,1,4.0
+C11151,2026-03-27,21,New Platform,Recent Transactions,159.0,6,0,0.843,158.0,0,4.0
+C11152,2026-03-28,6,New Platform,Recent Transactions,219.0,4,1,0.99,158.0,0,4.0
+C11154,2026-03-28,11,Legacy IVR,Make a Payment,408.0,9,3,0.837,182.0,1,2.0
+C11155,2026-03-28,13,New Platform,Make a Payment,201.0,4,0,0.952,144.0,0,5.0
+C11156,2026-03-28,14,Legacy IVR,Cancel a Payment,255.0,3,0,0.828,101.0,0,4.0
+C11157,2026-03-28,14,Legacy IVR,Recent Transactions,244.0,9,1,0.812,192.0,0,4.0
+C11158,2026-03-28,18,New Platform,Make a Payment,324.0,11,2,0.756,268.0,0,4.0
+C11159,2026-03-28,18,New Platform,Make a Payment,310.0,6,0,0.849,183.0,0,4.0
+C11160,2026-03-28,18,New Platform,Balance Inquiry,144.0,6,1,0.862,252.0,0,3.0
+C11161,2026-03-28,22,New Platform,Cancel a Payment,247.0,6,0,0.901,208.0,0,4.0
+C11162,2026-03-29,6,New Platform,Cancel a Payment,272.0,7,1,0.97,234.0,0,3.0
+C11163,2026-03-29,8,New Platform,Rewards Redemption,298.0,8,0,0.711,241.0,0,5.0
+C11164,2026-03-29,8,Legacy IVR,Recent Transactions,181.0,5,0,0.71,198.0,0,5.0
+C11165,2026-03-29,9,New Platform,Rewards Redemption,360.0,6,0,0.814,133.0,0,4.0
+C11166,2026-03-29,10,New Platform,Make a Payment,386.0,5,1,0.838,240.0,1,4.0
+C11167,2026-03-29,11,New Platform,Recent Transactions,213.0,8,0,0.918,257.0,0,5.0
+C11168,2026-03-29,11,New Platform,Balance Inquiry,148.0,7,0,0.971,254.0,0,3.0
+C11169,2026-03-29,12,New Platform,Cancel a Payment,242.0,7,1,0.868,211.0,0,4.0
+C11170,2026-03-29,14,Legacy IVR,Cancel a Payment,281.0,5,1,0.898,239.0,0,3.0
+C11171,2026-03-29,15,New Platform,Make a Payment,197.0,7,1,0.9,156.0,0,4.0
+C11172,2026-03-29,16,New Platform,Balance Inquiry,106.0,4,0,0.886,271.0,0,4.0
+C11174,2026-03-29,20,New Platform,Recent Transactions,161.0,4,0,0.905,170.0,0,4.0
+C11175,2026-03-29,20,New Platform,Make a Payment,391.0,9,2,0.929,779.0,0,3.0
+C11176,2026-03-30,6,New Platform,Make a Payment,235.0,8,0,0.827,236.0,0,4.0
+C11177,2026-03-30,8,New Platform,Make a Payment,152.0,5,0,0.849,283.0,0,5.0
+C11178,2026-03-30,10,New Platform,Balance Inquiry,164.0,7,1,0.83,225.0,0,4.0
+C11179,2026-03-30,10,New Platform,Make a Payment,251.0,5,0,0.948,180.0,0,4.0
+C11180,2026-03-30,11,New Platform,Make a Payment,198.0,7,1,0.956,196.0,0,4.0
+C11181,2026-03-30,12,Legacy IVR,Make a Payment,299.0,9,2,0.946,215.0,0,2.0
+C11182,2026-03-30,13,New Platform,Make a Payment,210.0,9,0,0.94,179.0,0,5.0
+C11183,2026-03-30,14,Legacy IVR,Recent Transactions,224.0,7,2,0.806,179.0,0,3.0
+C11184,2026-03-30,15,New Platform,Make a Payment,333.0,7,1,0.797,105.0,0,3.0
+C11185,2026-03-30,15,Legacy IVR,Recent Transactions,299.0,8,4,0.798,418.0,0,3.0
+C11186,2026-03-30,15,New Platform,Recent Transactions,229.0,6,2,0.833,388.0,0,4.0
+C11187,2026-03-30,18,New Platform,Recent Transactions,150.0,6,0,0.867,231.0,0,5.0
+C11188,2026-03-30,18,New Platform,Cancel a Payment,265.0,5,0,0.973,226.0,0,5.0
+C11189,2026-03-30,18,New Platform,Make a Payment,255.0,5,0,0.931,229.0,0,4.0
+C11190,2026-03-31,6,New Platform,Recent Transactions,291.0,7,1,0.9,289.0,1,3.0
+C11191,2026-03-31,8,New Platform,Make a Payment,267.0,11,2,0.98,260.0,0,3.0
+C11192,2026-03-31,9,New Platform,Unknown,167.0,6,0,0.915,190.0,0,4.0
+C11194,2026-03-31,11,New Platform,Cancel a Payment,290.0,10,1,0.973,137.0,0,5.0
+C11195,2026-03-31,13,New Platform,Recent Transactions,174.0,7,1,0.939,139.0,0,4.0
+C11196,2026-03-31,15,New Platform,Rewards Redemption,320.0,12,0,0.795,159.0,0,4.0
+C11197,2026-03-31,15,New Platform,Rewards Redemption,225.0,7,0,0.838,250.0,0,3.0
+C11198,2026-03-31,18,New Platform,Cancel a Payment,226.0,7,0,0.778,184.0,0,4.0
